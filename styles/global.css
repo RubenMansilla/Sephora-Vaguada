@@ -1,11 +1,13 @@
 * {
     box-sizing: border-box;
 }
+
 .cabecera {
     padding: 1rem;
     background-color: black;
     height: 100px;
 }
+
 .cabecera svg {
     display: block;
     max-height: 66px;
@@ -14,6 +16,7 @@
     color: white;
     margin: auto;
 }
+
 .cabecera .o-pandora {
     fill-rule: evenodd;
     clip-rule: evenodd;
@@ -45,7 +48,6 @@ nav ul li a{
     font-weight: 500;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-
 }
 
 a:hover{
@@ -60,6 +62,7 @@ section {
 }
 
 footer {
+    clear: both;
     background-color: black;
     min-height: 100px;
 }
