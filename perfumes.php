@@ -17,7 +17,7 @@
     include './includes/nav.php';
     ?>
 
-    <video class="video" loop="loop" autoplay="autoplay" alt="Perfumes Carolina Herrera" playsinline="" crossorigin="anonymous" src="https://customer-jsjst1fdhj7sipkx.cloudflarestream.com/1958fdfffd097a3a52d42b7f8269f13e/thumbnails/thumbnail.mp4?&amp;width=1080&amp;duration=12s"></video>
+    <video class="video" loop="loop" autoplay="autoplay" alt="Perfumes Carolina Herrera" playsinline="" crossorigin="anonymous" src="https://customer-jsjst1fdhj7sipkx.cloudflarestream.com/1958fdfffd097a3a52d42b7f8269f13e/thumbnails/thumbnail.mp4?&amp;width=1440&amp;duration=12s"></video>
 
     <h1 class="titulo">Fragancias y Perfumes</h1>
     <p class="subTitulo">Sumérgete en el mundo de las fragancias con nuestra colección de perfumes, cuidado personal e ideas para regalos.</p>

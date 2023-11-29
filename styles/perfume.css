@@ -342,3 +342,8 @@ aside{
     box-sizing: border-box;
     margin-left: 235px;
 }
+
+.botonCompraCofre:hover{
+    background-color: #fff;
+    color: #000;;
+}
