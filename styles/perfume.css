@@ -239,3 +239,106 @@ aside{
     height: 100%;
     float: right;
 }
+
+.cajaMarca{
+    clear: both;
+    width: 100%;
+    height: 580px;
+    padding: 0;
+    margin-top: 150px;
+}
+
+.tituloMarca{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: work sans,sans-serif;
+    color: #333;
+}
+
+.marca{
+    width: 30%;
+    height: 55%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 38px;
+    
+}
+
+.marca img{
+    width: 100%;
+    height: 100%;
+}
+
+.textoMarca{
+    margin-top: 15px;
+    width: 30%;
+    height: 25%;
+    float: left;
+    margin-left: 38px;
+}
+
+.textoMarca h3{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: work sans,sans-serif;
+    color: #333;
+    border-bottom: 1px solid #333;
+    line-height: 1.5;
+}
+
+.textoMarca p{
+    font-size: 16px;
+    font-weight: 300;
+    font-family: work sans,sans-serif;
+    color: #333;
+    line-height: 1.5;
+    text-align: justify;
+    width: 80%;
+}   
+
+.cajaCofresRegalo{
+    clear: both;
+    width: 100%;
+    height: 700px;
+    padding: 0;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    margin-bottom: 100px;
+}
+
+.cajaCofresRegalo h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    font-family: work sans,sans-serif;
+    color: #333;
+}
+
+.cofresRegalo{
+    width: 45%;
+    height: 550px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.botonCompraCofre{
+    width: 30%;
+    margin-left: 40px;
+    background-color: #000;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000;
+    font-family: "Work Sans",sans-serif;
+    font-size: 15px;
+    letter-spacing: .19px;
+    color: #fff;
+    line-height: 1.33;
+    padding: 12.5px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: center;
+    box-sizing: border-box;
+    margin-left: 235px;
+}

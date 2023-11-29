@@ -1,0 +1,2 @@
+Cambiar fuente de letra de la pagina de Perfumes
+Cambiar estilos en clases por herencias

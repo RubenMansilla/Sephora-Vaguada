@@ -17,7 +17,7 @@
     include './includes/nav.php';
     ?>
 
-    <video class="video" loop="loop" autoplay="autoplay" title="Perfumes Carolina Herrera" playsinline="" crossorigin="anonymous" src="https://customer-jsjst1fdhj7sipkx.cloudflarestream.com/1958fdfffd097a3a52d42b7f8269f13e/thumbnails/thumbnail.mp4?&amp;width=1080&amp;duration=12s"></video>
+    <video class="video" loop="loop" autoplay="autoplay" alt="Perfumes Carolina Herrera" playsinline="" crossorigin="anonymous" src="https://customer-jsjst1fdhj7sipkx.cloudflarestream.com/1958fdfffd097a3a52d42b7f8269f13e/thumbnails/thumbnail.mp4?&amp;width=1080&amp;duration=12s"></video>
 
     <h1 class="titulo">Fragancias y Perfumes</h1>
     <p class="subTitulo">Sumérgete en el mundo de las fragancias con nuestra colección de perfumes, cuidado personal e ideas para regalos.</p>
@@ -36,7 +36,7 @@
     </div>
     <div class="tipos">
         <img src="img/perfumes/SetRegaloPerfumes.jpg" alt="Set Regalo de Perfumes">
-        <p>Cofres Regalo</p>
+        <a href="#regalos"><p>Cofres Regalo</p></a>
     </div>
 
     <div class="banner">
@@ -169,6 +169,32 @@
         </div>
     </section>
 
+    <section class="cajaMarca">
+        <h2 class="tituloMarca">Nuestras Mejores Marcas</h2>
+        <div class="marca">
+            <img src="img/perfumes/marcaCarolinaHerrera.png">
+        </div>
+        <div class="marca">
+        <img src="img/perfumes/marcaBoss.jpg">
+        </div>
+        <div class="marca">
+        <img src="img/perfumes/marcaPacoRabanne.jpg">
+        </div>
+
+        <div class="textoMarca">
+            <h3>Carolina Herrera </h3>
+            <p>¡Descubre los productos de Carolina Herrera para tener una fragancia excepcional!</p>
+        </div>
+        <div class="textoMarca">
+            <h3>Boss</h3>
+            <p>¡Una amplia gama de productos de Boss te está esperando</p>
+        </div>
+        <div class="textoMarca">
+            <h3>Paco Rabanne</h3>
+            <p>¡Disfruta de los productos más exclusivos de Paco Rabanne unicamente aquí!</p>
+        </div>
+    </section>
+
     <section class="tipoProductos">
         <h2><a id="hombre"></a>Perfumes Hombre</h2>
         <div class="producto">
@@ -225,6 +251,22 @@
             <p class="nombreProducto">Burberry Hero Eau de Parfum for Men 50ml</p>
             <p class="precioProducto">67,95 €</p>
             <p class="botonCompra">Comprar</p>
+        </div>
+    </section>
+
+    <section class="cajaCofresRegalo">
+    <h2><a id="regalos"></a>Cofres Regalo</h2>
+        <div class="cofresRegalo">
+            <img class="imgProducto1" src="img/perfumes/Marc Jacobs Christmas 2023 Daisy Eau de Toilette Spray 50ml Gift Set.jpg" alt="Marc Jacobs Christmas 2023 Daisy Eau de Toilette Spray 50ml Gift Set">
+            <p class="nombreProducto">Marc Jacobs Christmas 2023 Daisy Eau de Toilette Spray 50ml Gift Set</p>
+            <p class="precioProducto">63,95 €</p>
+            <p class="botonCompraCofre">Comprar</p>
+        </div>
+        <div class="cofresRegalo">
+            <img class="imgProducto1" src="img/perfumes/Bad Boy 100 ml Eau de Toilette, Gel de Ducha 100 ml y Megavaporizador 10 ml.png" alt="Bad Boy 100 ml Eau de Toilette, Gel de Ducha 100 ml y Megavaporizador 10 ml">
+            <p class="nombreProducto">Bad Boy 100 ml Eau de Toilette, Gel de Ducha 100 ml y Megavaporizador</p>
+            <p class="precioProducto">117,00 €</p>
+            <p class="botonCompraCofre">Comprar</p>
         </div>
     </section>
 
