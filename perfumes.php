@@ -170,7 +170,7 @@
     </section>
 
     <section class="cajaMarca">
-        <h2 class="tituloMarca">Nuestras Mejores Marcas</h2>
+        <h2 class="tituloMarca">Marcas Top</h2>
         <div class="marca">
             <img src="img/perfumes/marcaCarolinaHerrera.png">
         </div>
@@ -187,7 +187,7 @@
         </div>
         <div class="textoMarca">
             <h3>Boss</h3>
-            <p>¡Una amplia gama de productos de Boss te está esperando</p>
+            <p>¡Una amplia gama de productos de Boss te está esperando!</p>
         </div>
         <div class="textoMarca">
             <h3>Paco Rabanne</h3>
