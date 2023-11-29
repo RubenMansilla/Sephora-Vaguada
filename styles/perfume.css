@@ -115,7 +115,7 @@
     width: 20%;
     height: 500px;
     margin-left: 55px;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-bottom: 50px;
 }
 
@@ -191,6 +191,7 @@
     cursor: pointer;
     text-align: center;
     box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
 }
 
 .botonCompra:hover{
