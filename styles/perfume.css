@@ -341,6 +341,7 @@ aside{
     text-align: center;
     box-sizing: border-box;
     margin-left: 235px;
+    transition: all 0.2s ease-in-out;
 }
 
 .botonCompraCofre:hover{
