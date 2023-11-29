@@ -200,12 +200,11 @@
 }
 
 aside{
-    border: 1px solid #000;
     clear: both;
     width: 100%;
     height: 400px;
     background-color: rgb(224, 218, 218);
-    margin-top: 100px;
+    margin-top: 180px;
     margin-bottom: 50px;
 }
 

@@ -1,0 +1,60 @@
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 100px;
+    font-family: work sans,sans-serif;
+    color: #333;
+    margin-left: 55px;
+}
+
+.descuentoMaquillaje {
+    border: 1px solid #000000;
+    width: 45%;
+    height: 400px;
+    float: left;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+
+.cajaTexto {
+    width: 50%;
+    height: 40%;
+    border: 1px solid #000000;
+    position: relative;
+    left: 6%;
+    top: 8%;
+}
+
+.texto1 {
+    font-family: work sans,sans-serif;
+    color: #333;
+    text-align: center;
+ 
+}
+
+.texto2 {
+    font-size: 50px;
+    font-weight: 600;
+    background-color: rgb(203, 61, 87);
+    font-family: work sans,sans-serif;
+    color: #333;
+    text-align: center;
+    color: white;
+}
+
+.cajaDescuento {
+    width: 30%;
+    height: 30%;
+    border: 1px solid #000000;
+    position: relative;
+    left: 68%;
+    bottom: 30%;
+}
+
+.descuento{
+    font-size: 50px;
+    font-family: work sans,sans-serif;
+    color: #333;
+    text-align: center;
+    color: rgb(203, 61, 87);
+}
