@@ -28,7 +28,7 @@
     </div>
     <div class="tipos">
         <img src="img/perfumeMujer.jpg" alt="Perfumes Mujer">
-        <p>Perfumes Mujer</p>
+        <a href="#mujer"><p>Perfumes Mujer</p></a>
     </div>
     <div class="tipos">
         <img src="img/perfumeHombre.jpg" alt="Perfumes Hombre">
@@ -46,7 +46,7 @@
     </div>
 
     <section class="tipoProductos">
-        <h2><a id="populares"></a> Populares</h2>
+        <h2><a id="populares"></a>Populares</h2>
         <div class="producto">
             <img class="imgProducto1" src="img/Armani My Way Eau de Parfum - 30ml.png" alt="Armani My Way Eau de Parfum - 30ml">
             <p class="nombreProducto">Giorgio Armani My Way Eau de Parfum - 30ml</p>
@@ -100,6 +100,65 @@
             <img class="imgProducto6" src="img/Versace Eros for Men Eau de Toilette 100ml.png" alt="Versace Eros for Men Eau de Toilette 100ml">
             <p class="nombreProducto">Versace Eros for Men Eau de Toilette 100ml</p>
             <p class="precioProducto">96,45€</p>
+            <p class="botonCompra">Comprar</p>
+        </div>
+    </section>
+
+    <section class="tipoProductos">
+        <h2><a id="mujer"></a>Perfumes Mujer</h2>
+        <div class="producto">
+            <img class="imgProducto7" src="Img/Eau de Rochas L'essentiel - Eau de Parfum.png" alt="Eau de Rochas L'essentiel - Eau de Parfum">
+            <p class="nombreProducto">Eau de Rochas L'essentiel - Eau de Parfum</p>
+            <p class="precioProducto"><strong>69,99€</strong></p>
+            <p class="botonCompra">Comprar</p>
+        </div>
+
+        <div class="producto">
+            <img class="imgProducto3" src="img/Burberry Goddess Eau de Parfum for Women 100ml.jpg" alt="Burberry Goddess Eau de Parfum for Women 100ml">
+            <p class="nombreProducto">Burberry Goddess Eau de Parfum for Women 100ml</p>
+            <p class="precioProducto">113,45€</p>
+            <p class="botonCompra">Comprar</p>
+        </div>
+
+        <div class="producto">
+            <img class="imgProducto2" src="img/Ode To Dullness - Eau de Parfum.png" alt="Ode To Dullness - Eau de Parfum">
+            <p class="nombreProducto">Ode To Dullness - Eau de Parfum</p>
+            <p class="precioProducto">125,99€</p>
+            <p class="botonCompra">Comprar</p>
+        </div>
+
+        <div class="producto">
+            <img class="imgProducto3" src="img/Yves Saint Laurent Black Opium Eau de Parfum 30ml.png" alt="Yves Saint Laurent Black Opium Eau de Parfum 30ml">
+            <p class="nombreProducto">Yves Saint Laurent Black Opium Eau de Parfum 30ml</p>
+            <p class="precioProducto">52,95€</p>
+            <p class="botonCompra">Comprar</p>
+        </div>
+
+        <div class="producto">
+            <img class="imgProducto2" src="img/Alien Goddess Supra Florale - Eau de Parfum.png" alt="Alien Goddess Supra Florale - Eau de Parfum">
+            <p class="nombreProducto">Alien Goddess Supra Florale - Eau de Parfum</p>
+            <p class="precioProducto">104,99€</p>
+            <p class="botonCompra">Comprar</p>
+        </div>
+
+        <div class="producto" >
+            <img class="imgProducto4" src="img/Bergamot Bloom 100ml Eau de Toilette.png" alt="Bergamot Bloom 100ml Eau de Toilette">
+            <p class="nombreProducto">Bergamot Bloom 100ml Eau de Toilette</p>
+            <p class="precioProducto">125,00€</p>
+            <p class="botonCompra">Comprar</p>
+        </div>
+
+        <div class="producto">
+            <img class="imgProducto5" src="" alt="">
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompra">Comprar</p>
+        </div>
+
+        <div class="producto">
+            <img class="imgProducto6" src="" alt="">
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
             <p class="botonCompra">Comprar</p>
         </div>
 
