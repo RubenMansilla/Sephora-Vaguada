@@ -253,6 +253,19 @@
             <p class="botonCompra">Comprar</p>
         </div>
     </section>
+    <div class="cajaKitDeMuestra">
+        <h3 class="tituloKitDeMuestra">Kit de Muestra</h3>
+        <div class="kitDeMuestra">
+            <img src="img/perfumes/Sample_New_Xerjoff-Com.png">
+        </div>
+        <div class="kitDeMuestra">
+            <img src="img/perfumes/Sample_New_Xerjoff-Com_2.png">
+        </div>
+        <p class="textoKitMuestra">
+            Sample Kit by Xerjoff is a service, which allows you to discover more  perfumes  from the Xerjoff portfolio. Add up to four samples of your choice to the kit configurator, try them in the comfort of your home.
+        </p>
+        <p class="botonKit">ELIGE AHORA</p>
+    </div>
 
     <section class="cajaCofresRegalo">
     <h2><a id="regalos"></a>Cofres Regalo</h2>
