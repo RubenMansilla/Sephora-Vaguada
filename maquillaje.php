@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,14 +9,13 @@
     <link rel="stylesheet" href="./styles/global.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="./styles/maquillaje.css?v=<?php echo time(); ?>">
 </head>
-<body>
-    
-    <?php 
-        include './includes/header.php'; 
-        include './includes/nav.php';
-    ?>
 
-    <h1>Maquillaje</h1>
+<body>
+
+    <?php
+    include './includes/header.php';
+    include './includes/nav.php';
+    ?>
 
     <aside class="descuentoMaquillaje">
         <div class="cajaTexto">
@@ -36,11 +36,374 @@
         </div>
     </aside>
 
-    <section></section>
+    <h2>Máscara de Pestañas</h2>
+    <section class="contenedorProductos">
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto">36,00 €</p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+    </section>
 
-    <?php 
-        include './includes/footer.php'; 
+    <h2>Labios</h2>
+    <section class="contenedorProductos">
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+    </section>
+
+    <h2>Bases de Maquillaje</h2>
+    <section class="contenedorProductos">
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+    </section>
+
+    <h2>Correctores</h2>
+    <section class="contenedorProductos">
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+    </section>
+
+    <h2>Colorete</h2>
+    <section class="contenedorProductos">
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+    </section>
+
+    <h2>Polvos</h2>
+    <section class="contenedorProductos">
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+    </section>
+
+    <h2>Eyeliner</h2>
+    <section class="contenedorProductos">
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img>
+            <p class="nombreProducto"></p>
+            <p class="precioProducto"></p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+    </section>
+
+    <?php
+    include './includes/footer.php';
     ?>
 
 </body>
+
 </html>
