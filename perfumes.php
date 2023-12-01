@@ -241,7 +241,7 @@
             <img src="img/perfumes/Sample_New_Xerjoff-Com_2.png">
         </div>
         <p class="textoKitMuestra">
-            Sample Kit by Xerjoff is a service, which allows you to discover more  perfumes  from the Xerjoff portfolio. Add up to four samples of your choice to the kit configurator, try them in the comfort of your home.
+        Sample Kit de Sephora es un servicio que le permite descubrir más perfumes del portafolio de Sephora. Agrega hasta cuatro muestras de tu elección al configurador de kits, pruébalas en la comodidad de tu hogar.
         </p>
         <p class="botonKit">ELIGE AHORA</p>
     </div>
