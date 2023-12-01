@@ -18,17 +18,15 @@
     <h1>Maquillaje</h1>
 
     <aside class="descuentoMaquillaje">
-        <img>
         <div class="cajaTexto">
             <p class="texto1">MAQUILLAJE</p>
             <p class="texto2">DE LUJO</p>
         </div>
         <div class="cajaDescuento">
-            <p>50%</p>
+            <p class="descuento">50%</p>
         </div>
     </aside>
-    <aside class="descuentoMaquillaje">
-        <img>
+    <aside class="descuentoMaquillaje2">
         <div class="cajaTexto">
             <p class="texto1">MAQUILLAJE</p>
             <p class="texto2">LOW-COST</p>
