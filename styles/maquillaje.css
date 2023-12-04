@@ -84,7 +84,7 @@ h2 {
 
 .contenedorProductos{
     width: 100%;
-    height: 950px;
+    height: 1250px;
     border: 1px solid #000000;
     position: relative;
     top: 100px;
@@ -93,13 +93,40 @@ h2 {
 
 .producto{
     width: 20%;
-    height: 400px;
+    height: 550px;
     border: 1px solid #000000;
     float: left;
     margin-left: 60px;
     margin-top: 50px;
     background-image: url();
-    background-color: #fafafa;
+}
+
+.imgProducto1{
+    width: 300; 
+    height: 300px;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+
+.imgProducto2{
+    width: 300; 
+    height: 300px;
+    margin-left: 115px;
+    margin-top: 5px;
+}
+
+.imgProducto3{
+    width: 300; 
+    height: 300px;
+    margin-left: 95px;
+    margin-top: 5px;
+}
+
+.imgProducto4{
+    width: 300; 
+    height: 300px;
+    margin-left: 80px;
+    margin-top: 5px;
 }
 
 .nombreProducto{
@@ -117,7 +144,7 @@ h2 {
 
 .botonCompraProducto{
     width: 70%;
-    margin-left: 40px;
+    margin-left: 45px;
     background-color: #000;
     border-width: 2px;
     border-style: solid;
