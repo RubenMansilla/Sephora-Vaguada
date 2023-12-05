@@ -59,7 +59,7 @@
         </div>
         <div class="producto">
             <img class="imgProducto2" src="img/maquillaje/DEFINITIVE MASCARA DE JORGE DE LA GARZA.jpeg" alt="DEFINITIVE MASCARA DE JORGE DE LA GARZA">
-            <p class="nombreProducto">Defenitive Mascara De Jorge De La Garza</p>
+            <p class="nombreProducto">Defenitive | Mascara De Jorge De La Garza</p>
             <p class="precioProducto">20,50 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
@@ -168,27 +168,27 @@
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/Milky Boost - Leche desmaquillante.jpg" alt="Milky Boost - Leche desmaquillante">
+            <p class="nombreProducto">Clarins | Milky Boost - Leche desmaquillante</p>
+            <p class="precioProducto">41,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/Matte Velvet Skin - Base de maquillaje fluida mate.jpg" alt="Matte Velvet Skin - Base de maquillaje fluida mate">
+            <p class="nombreProducto">Make up Forever | Matte Velvet Skin - Base de maquillaje mate</p>
+            <p class="precioProducto">41,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto4" src="img/maquillaje/Eaze drop - Base de Maquillaje Efecto Difuminado.jpg" alt="Eaze drop - Base de Maquillaje Efecto Difuminado">
+            <p class="nombreProducto">Fenty Beauty | Eaze drop <br>Base de Efecto Difuminado</p>
+            <p class="precioProducto">36,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto5" src="img/maquillaje/Face Glow Foundation - Base de maquillaje.jpg" alt="Face Glow Foundation - Base de maquillaje">
+            <p class="nombreProducto">Natasha Denona | Face Glow Foundation - Base de maquillaje</p>
+            <p class="precioProducto">44,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
     </section>

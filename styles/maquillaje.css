@@ -104,11 +104,14 @@ h2 {
 .producto{
     width: 20%;
     height: 550px;
-    border: 1px solid #000000;
     float: left;
     margin-left: 4%;
     margin-top: 50px;
-    background-image: url();
+}
+
+.producto:hover{
+    border: 1px solid rgb(225, 223, 223);
+    box-shadow: 0 0 10px rgb(225, 223, 223);
 }
 
 .imgProducto1{
