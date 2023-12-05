@@ -238,9 +238,9 @@
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto7" src="img/maquillaje/Forever Skin Correct - Corrector de alta cobertura  .jpg" alt="Forever Skin Correct - Corrector de alta cobertura ">
+            <p class="nombreProducto">Dior | Forever Skin Correct - Corrector de alta cobertura </p>
+            <p class="precioProducto">41,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
     </section>

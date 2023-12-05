@@ -118,6 +118,8 @@ h2 {
     width: 300; 
     height: 300px;
     margin-top: 10px;
+    position: relative;
+    left: 40%;
 }
 
 .imgProducto2{
@@ -191,7 +193,7 @@ h2 {
     font-weight: 600;
     line-height: 1.5; 
 }
-
+    
 .botonCompraProducto{
     width: 70%;
     position: relative;

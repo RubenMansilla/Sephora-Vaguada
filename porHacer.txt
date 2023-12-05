@@ -3,3 +3,4 @@ Cambiar estilos en clases por herencias
 Cambiar nombre imgs
 Arreglar nombres productos (añadir nombre marca)
 Arreglar margenes de las imagenes
+imagenes dentro de <figure>
