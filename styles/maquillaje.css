@@ -11,16 +11,6 @@
     position: relative;
 }
 
-.descuentoMaquillaje::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background: rgba(0, 0, 0, 0.1);
-}
-
 .descuentoMaquillaje2 {
     width: 45%;
     height: 400px;
@@ -33,7 +23,6 @@
     background-position: center;
     background-repeat: no-repeat;
 }
-
 
 .cajaTexto {
     width: 50%;
@@ -168,6 +157,13 @@ h2 {
     width: 300; 
     height: 300px;
     margin-left: 60px;
+    margin-top: 10px;
+}
+
+.imgProducto8{
+    width: 300; 
+    height: 300px;
+    margin-left: 70px;
     margin-top: 10px;
 }
 

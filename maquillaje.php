@@ -135,7 +135,7 @@
         </div>
         <div class="producto">
             <img class="imgProducto7" src="img/maquillaje/Ultra Suede® - Barra de labios mate.jpg" alt="Ultra Suede® - Barra de labios mate">
-            <p class="nombreProducto">Ultra Suede® - Barra de labios mate</p>
+            <p class="nombreProducto">Mario | Ultra Suede - Barra de labios mate</p>
             <p class="precioProducto">28,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
@@ -144,49 +144,49 @@
     <h2>Bases de Maquillaje</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto8" src="img/maquillaje/Dior Forever Skin Correct - Corrector de alta cobertura.jpg" alt="Dior Forever Skin Correct - Corrector de alta cobertura">
+            <p class="nombreProducto">Dior Forever Skin Correct - Corrector de alta cobertura</p>
+            <p class="precioProducto">41,99 €</p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img class="imgProducto5" src="img/maquillaje/Glowish Multidew - Crema Hidratante Con Color.jpg" alt="Glowish Multidew - Crema Hidratante Con Color">
+            <p class="nombreProducto">Glowish Multidew - Crema Hidratante Con Color</p>
+            <p class="precioProducto">40,99 €</p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img class="imgProducto3" src="img/maquillaje/Luminous Silk - Base de maquillaje acabado luminoso y natural.jpg" alt="Luminous Silk - Base de maquillaje acabado luminoso y natural">
+            <p class="nombreProducto">Giogio Armani | Luminous Silk - Base con acabado luminoso</p>
+            <p class="precioProducto">60,99 €</p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img class="imgProducto5" src="img/maquillaje/Rare Beauty  Liquid Touch br Base de maquillaje ligera.jpg" alt="Rare Beauty | Liquid Touch Base de maquillaje ligera">
+            <p class="nombreProducto">Rare Beauty | Liquid Touch <br> Base de maquillaje ligera</p>
+            <p class="precioProducto">34,49 €</p>
+            <p class="botonCompraProducto">Comprar</p>
+        </div>
+        <div class="producto">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
-            <p class="botonCompraProducto">Comprar</p>
-        </div>
-        <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
-            <p class="botonCompraProducto">Comprar</p>
-        </div>
-        <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
-            <p class="botonCompraProducto">Comprar</p>
-        </div>
-        <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
-            <p class="botonCompraProducto">Comprar</p>
-        </div>
-        <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
@@ -196,49 +196,49 @@
     <h2>Correctores</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
@@ -248,49 +248,49 @@
     <h2>Colorete</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
@@ -300,49 +300,49 @@
     <h2>Polvos</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
@@ -352,49 +352,49 @@
     <h2>Eyeliner</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
+            <img class="imgProducto3" src="img/maquillaje">
             <p class="nombreProducto"></p>
             <p class="precioProducto"></p>
             <p class="botonCompraProducto">Comprar</p>

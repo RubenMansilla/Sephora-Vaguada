@@ -1,3 +1,4 @@
-Cambiar fuente de letra de la pagina de Perfumes
+Elegir funete de letra
 Cambiar estilos en clases por herencias
 Cambiar nombre imgs
+Modificar nombres productos (añadir nombre marca)
