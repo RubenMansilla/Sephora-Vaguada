@@ -196,45 +196,45 @@
     <h2>Correctores</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto9" src="img/maquillaje/Positive Light - Corrector líquido ultraligero.jpg" alt="Positive Light - Corrector líquido ultraligero">
+            <p class="nombreProducto">Rare Beauty | Positive Light <br> Corrector líquido ultraligero</p>
+            <p class="precioProducto">29,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/Corrector Power Fabric + - Corrector de larga duración.jpg" alt="Corrector Power Fabric + - Corrector de larga duración">
+            <p class="nombreProducto">Armani | Corrector Power Fabric  Corrector de larga duración</p>
+            <p class="precioProducto">41,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/Instant Concealer - Corrector antiojeras.jpg" alt="Instant Concealer - Corrector antiojeras">
+            <p class="nombreProducto">Clarins | Instant Concealer - Corrector antiojeras</p>
+            <p class="precioProducto">34,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/HD Skin Concealer - Corrector imperceptible.jpg" alt="HD Skin Concealer - Corrector imperceptible">
+            <p class="nombreProducto">Make Up Forever | HD Skin Concealer - Corrector imperceptible</p>
+            <p class="precioProducto">29,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/Soft Matte & Easy - Barra de labios mate suave.jpg" alt="Stay Naked Quickie 24Hr - Corretor Muti Usos">
+            <p class="nombreProducto">Urban Decay | Stay Naked Quickie 24Hr - Corretor Muti Usos</p>
+            <p class="precioProducto">34,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto7" src="img/maquillaje/Born This Way Super Coverage Concealer.jpg" alt="Born This Way Super Coverage Concealer">
+            <p class="nombreProducto">Too Faced | Born This Way Super Coverage Concealer</p>
+            <p class="precioProducto">16,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto4" src="img/maquillaje/Prisme Libre Skin-Caring Corrector.jpg" alt="Prisme Libre Skin-Caring Corrector">
+            <p class="nombreProducto">Givenchy | Prisme Libre Skin-Caring Corrector</p>
+            <p class="precioProducto">37,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">

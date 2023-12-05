@@ -117,22 +117,23 @@ h2 {
 .imgProducto1{
     width: 300; 
     height: 300px;
-    margin-left: 0px;
     margin-top: 10px;
 }
 
 .imgProducto2{
     width: 300; 
     height: 300px;
-    margin-left: 115px;
     margin-top: 10px;
+    position: relative;
+    left: 37%;
 }
 
 .imgProducto3{
     width: 300; 
     height: 300px;
-    margin-left: 95px;
     margin-top: 10px;
+    position: relative;
+    left: 30%;
 }
 
 .imgProducto4{
@@ -170,6 +171,14 @@ h2 {
     margin-top: 10px;
 }
 
+.imgProducto9{
+    position: relative;
+    left: 42%;
+    width: 300; 
+    height: 300px;
+    margin-top: 10px;
+}
+
 .nombreProducto{
     text-align: center;
     line-height: 1.5;
@@ -185,7 +194,8 @@ h2 {
 
 .botonCompraProducto{
     width: 70%;
-    margin-left: 15%;
+    position: relative;
+    left: 15%;
     background-color: #000;
     border-width: 2px;
     border-style: solid;

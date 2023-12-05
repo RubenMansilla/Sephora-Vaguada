@@ -1,4 +1,5 @@
 Elegir funete de letra
 Cambiar estilos en clases por herencias
 Cambiar nombre imgs
-Modificar nombres productos (añadir nombre marca)
+Arreglar nombres productos (añadir nombre marca)
+Arreglar margenes de las imagenes
