@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maquillaje</title>
+    <title>Sephora Maquillajes</title>
     <link rel="icon" href="img/favicon/icono.jpeg">
     <link rel="stylesheet" href="./styles/normalize.css">
     <link rel="stylesheet" href="./styles/global.css?v=<?php echo time(); ?>">
@@ -122,21 +122,21 @@
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto2" src="img/maquillaje/Joli Rouge - Recambio Velvet Joli Rouge Velvet - Barra de labios acabado mate.jpg" alt="Joli Rouge - Recambio Velvet Joli Rouge Velvet - Barra de labios acabado mate">
+            <p class="nombreProducto">Joli Rouge - Barra de labios acabado mate</p>
+            <p class="precioProducto">24,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/Soft Matte & Easy - Barra de labios mate suave.jpg" alt="Soft Matte & Easy - Barra de labios mate suave">
+            <p class="nombreProducto">Soft Matte - Barra de labios acabado mate suave</p>
+            <p class="precioProducto">13,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto7" src="img/maquillaje/Ultra Suede® - Barra de labios mate.jpg" alt="Ultra Suede® - Barra de labios mate">
+            <p class="nombreProducto">Ultra Suede® - Barra de labios mate</p>
+            <p class="precioProducto">28,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
     </section>
