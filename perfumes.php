@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Perfumes</title>
     <link rel="stylesheet" href="./styles/normalize.css">
     <link rel="stylesheet" href="./styles/global.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="styles/perfume.css?v=<?php echo time(); ?>">

@@ -1,28 +1,43 @@
 .descuentoMaquillaje {
-    border: 1px solid #000000;
     width: 45%;
     height: 400px;
     float: left;
     margin-left: 55px;
     margin-top: 50px;
-    background-image: url();
+    background-image: url(../img/maquillaje/anuncio3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.descuentoMaquillaje::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.1);
 }
 
 .descuentoMaquillaje2 {
-    border: 1px solid #000000;
     width: 45%;
     height: 400px;
     float: right;
     margin-right: 55px;
     margin-top: 50px;
     background-image: url();
+    background-image: url(../img/maquillaje/anuncio2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 
 .cajaTexto {
     width: 50%;
     height: 40%;
-    border: 1px solid #000000;
     position: relative;
     left: 6%;
     top: 8%;
@@ -30,12 +45,16 @@
 
 .texto1 {
     font-family: work sans,sans-serif;
-    color: #333;
+    color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     margin: 0;
     padding-top:  20px;
     padding-bottom: 20px;
+    font-weight: 400;
+    background-color: rgb(203, 61, 87);
+
+    padding: 10px;
 }
 
 .texto2 {
@@ -43,31 +62,33 @@
     font-weight: 600;
     background-color: rgb(203, 61, 87);
     font-family: work sans,sans-serif;
-    color: #333;
     text-align: center;
     color: white;
     padding: 0;
     margin: 0;
+    padding-bottom: 5px;
+
 }
 
 .cajaDescuento {
     width: 30%;
     height: 30%;
-    border: 1px solid #000000;
     position: relative;
     left: 68%;
     bottom: 30%;
 }
 
 .descuento{
-    font-size: 50px;
+    font-size: 80px;
     font-family: work sans,sans-serif;
     color: #333;
     text-align: center;
     color: rgb(203, 61, 87);
     margin: 0;
-    padding-top: 30px;
+    padding-top: 15px;
     padding-left: 20px;
+    font-weight: 600;
+    -webkit-text-stroke: 2px white;
 }
 
 h2 {
@@ -87,8 +108,8 @@ h2 {
     height: 1250px;
     border: 1px solid #000000;
     position: relative;
-    top: 100px;
-    margin-bottom: 160px;
+    top: 80px;
+    margin-bottom: 140px;
 }
 
 .producto{
@@ -96,7 +117,7 @@ h2 {
     height: 550px;
     border: 1px solid #000000;
     float: left;
-    margin-left: 60px;
+    margin-left: 4%;
     margin-top: 50px;
     background-image: url();
 }
@@ -105,28 +126,42 @@ h2 {
     width: 300; 
     height: 300px;
     margin-left: 0px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .imgProducto2{
     width: 300; 
     height: 300px;
     margin-left: 115px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .imgProducto3{
     width: 300; 
     height: 300px;
     margin-left: 95px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .imgProducto4{
     width: 300; 
     height: 300px;
     margin-left: 80px;
-    margin-top: 5px;
+    margin-top: 10px;
+}
+
+.imgProducto5{
+    width: 300; 
+    height: 300px;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+
+.imgProducto6{
+    width: 300; 
+    height: 300px;
+    margin-left: 120px;
+    margin-top: 10px;
 }
 
 .nombreProducto{
@@ -144,7 +179,7 @@ h2 {
 
 .botonCompraProducto{
     width: 70%;
-    margin-left: 45px;
+    margin-left: 15%;
     background-color: #000;
     border-width: 2px;
     border-style: solid;

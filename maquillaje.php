@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Maquillaje</title>
+    <link rel="icon" href="img/favicon/icono.jpeg">
     <link rel="stylesheet" href="./styles/normalize.css">
     <link rel="stylesheet" href="./styles/global.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="./styles/maquillaje.css?v=<?php echo time(); ?>">
@@ -75,15 +76,15 @@
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto2" src="img/maquillaje/Master Blade -Lapiz de cejas.jpg" alt="Master Blade® -Lapiz de cejas">
+            <p class="nombreProducto">Mario | Master Blade - Lapiz de cejas</p>
+            <p class="precioProducto">26,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto2" src="img/maquillaje/Mini Brow Genius - Sérum para cejas MINI.jpg" alt="Mini Brow Genius - Sérum para cejas MINI">
+            <p class="nombreProducto">Mini Brow Genius - Sérum para cejas MINI</p>
+            <p class="precioProducto">40,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
     </section>
@@ -91,33 +92,33 @@
     <h2>Labios</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto5" src="img/maquillaje/Hydra-Peptide Lip Butter .jpg" alt="Hydra-Peptide Lip Butter ">
+            <p class="nombreProducto">Nudestix | Hydra-Peptide Lip Butter </p>
+            <p class="precioProducto">17,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/Nudies All Over Face Color Matte + Glow .jpg" alt="Nudies All Over Face Color Matte + Glow ">
+            <p class="nombreProducto">Nudestix | Nudies All Over Face Color Matte </p>
+            <p class="precioProducto">25,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto2" src="img/maquillaje/Honey Infused Golden Shimmer Glow Lip Oil .jpg" alt="Honey Infused Golden Shimmer Glow Lip Oil ">
+            <p class="nombreProducto">Honey Infused Golden Shimmer Glow Lip Oil </p>
+            <p class="precioProducto">27,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto6" src="img/maquillaje/Double Wear 24H Stay-in-Place - Delineador de labios.jpg" alt="Double Wear 24H Stay-in-Place - Delineador de labios">
+            <p class="nombreProducto">Double Wear 24H Stay-in-Place - Delineador de labios</p>
+            <p class="precioProducto">30,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto2" src="img/maquillaje/Gloss Bomb Cream - Brillo de labios lacado de color intenso.jpg" alt="Gloss Bomb Cream - Brillo de labios lacado de color intenso">
+            <p class="nombreProducto">Gloss Bomb Cream - Brillo de labios lacado de color intenso</p>
+            <p class="precioProducto">22,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">

@@ -5,6 +5,6 @@
         <li><a href="skinCare.php">Skin Care</a></li>
         <li><a href="perfumes.php">Perfumes</a></li>
         <li><a href="cuidadoCapilar.php">Cuidado Capilar</a></li>
-        <li><a href="tratamientoCorporal.php">Sobre Nosotros</a></li>
+        <li><a href="sobreNosotros.php">Sobre Nosotros</a></li>
     </ul>
 </nav>
