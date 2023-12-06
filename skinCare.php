@@ -17,9 +17,12 @@
         include './includes/nav.php';
     ?>
 
-    <section></section>
-    <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-
+    <section>
+    <img class="imagen" src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
+    <p class="nombre">Gel-Crema Limpiador  <br> BYOMA</p>
+            <p class="precio">12,99 €</p>
+            <p class="comprar">Comprar</p>
+    </section>
     <?php 
         include './includes/footer.php'; 
     ?>
