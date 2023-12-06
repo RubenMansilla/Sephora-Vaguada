@@ -181,6 +181,27 @@ h2 {
     margin-top: 10px;
 }
 
+.imgProducto10{
+    width: 300; 
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.imgProducto11{
+    width: 300; 
+    height: 300px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+
+.imgProducto12{
+    width: 300; 
+    height: 300px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
 .nombreProducto{
     text-align: center;
     line-height: 1.5;

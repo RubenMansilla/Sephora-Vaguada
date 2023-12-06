@@ -248,51 +248,51 @@
     <h2>Colorete</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto5" src="img/maquillaje/Color Haze - Crema Multi-uso Color Haze.jpg" alt="Color Haze - Crema Multi-uso Color Haze">
+            <p class="nombreProducto">Ilia | Color Haze - Crema Multi-uso Color Haze</p>
+            <p class="precioProducto">34,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto10" src="img/maquillaje/Chachatint - Colorete líquido benefit para mejillas y labios.jpg" alt="Chachatint - Colorete líquido benefit para mejillas y labios">
+            <p class="nombreProducto">Chachatint | Colorete líquido benefit para mejillas y labios</p>
+            <p class="precioProducto">22,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto11" src="img/maquillaje/Stay Vulnerable - Colorete segunda piel.jpg" alt="Stay Vulnerable - Colorete 'segunda piel'">
+            <p class="nombreProducto">Rare Beauty | Stay Vulnerable - Colorete "segunda piel"</p>
+            <p class="precioProducto">27,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto6" src="img/maquillaje/Brocha prosefional para colorete Pro nº 93.jpg" alt="Brocha prosefional para colorete Pro nº 93">
+            <p class="nombreProducto">Sephora | Brocha prosefional para colorete Pro nº 93</p>
+            <p class="precioProducto">24,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto10" src="img/maquillaje/Match Stix Color Adaptive Cheek + Lip Stick .jpg" alt="Match Stix Color Adaptive Cheek + Lip Stick ">
+            <p class="nombreProducto">Fenty Beauty | Match Stix Color Adaptive Cheek + Lip Stick </p>
+            <p class="precioProducto">29,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto12" src="img/maquillaje/Soft Pop Plumping Blush Veil.jpg" alt="Soft Pop Plumping Blush Veil">
+            <p class="nombreProducto">Mario | Soft Pop Plumping Blush Veil</p>
+            <p class="precioProducto">33,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto10" src="img/maquillaje/Afterglow Liquid Blush - Colorete líquido.jpg" alt="Afterglow Liquid Blush - Colorete líquido">
+            <p class="nombreProducto">Nars | Afterglow Liquid Blush <br> Colorete líquido</p>
+            <p class="precioProducto">39,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto3" src="img/maquillaje/Blush Balm Stick - Crema en barra multiusos.jpg" alt="Blush Balm Stick - Crema en barra multiusos">
+            <p class="nombreProducto">Summer Fridays | Blush Balm Stick - Crema en barra multiusos</p>
+            <p class="precioProducto">32,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
     </section>
