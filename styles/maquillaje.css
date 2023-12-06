@@ -107,11 +107,9 @@ h2 {
     float: left;
     margin-left: 4%;
     margin-top: 50px;
-}
-
-.producto:hover{
     border: 1px solid rgb(225, 223, 223);
-    box-shadow: 0 0 10px rgb(225, 223, 223);
+    box-shadow: 0 0 15px rgb(225, 223, 223);
+    cursor: pointer;
 }
 
 .imgProducto1{

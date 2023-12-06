@@ -95,7 +95,7 @@
 
 .tipoProductos{
     clear: both;
-    width: 90%;
+    width: 100%;
     height: 1200px;
     margin:auto;
     padding-top: 50px;
@@ -115,14 +115,12 @@
     float: left;
     width: 20%;
     height: 550px;
-    margin-left: 55px;
+    margin-left: 4%;
     margin-top: 50px;
     margin-bottom: 50px;
-}
-
-.producto:hover{
     border: 1px solid rgb(225, 223, 223);
     box-shadow: 0 0 10px rgb(225, 223, 223);
+    cursor: pointer;
 }
 
 .producto img{
@@ -132,37 +130,37 @@
 .imgProducto1{
     width: 300; 
     height: 300px;
-    margin-left: 55px;
+    margin-left: 95px;
 }
 
 .imgProducto2{
     width: 300; 
     height: 300px;
-    margin-left: 68px;
+    margin-left: 98px;
 }
 
 .imgProducto3{
     width: 300; 
     height: 300px;
-    margin-left: 40px;
+    margin-left: 70px;
 }
 
 .imgProducto4{
     width: 300; 
     height: 300px;
-    margin-left: 90px;
+    margin-left: 125px;
 }
 
 .imgProducto5{
     width: 300; 
     height: 300px;
-    margin-left: 72px;
+    margin-left: 102px;
 }
 
 .imgProducto6{
     width: 300; 
     height: 300px;
-    margin-left: 25px;
+    margin-left: 55px;
 }
 
 .imgProducto7{
