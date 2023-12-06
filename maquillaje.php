@@ -352,51 +352,51 @@
     <h2>Eyeliner</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto16" src="img/maquillaje/KVD Beauty Tattoo Liner Eyeliner.jpg" alt="KVD Beauty | Tattoo Liner Eyeliner">
+            <p class="nombreProducto">KVD Beauty | Tattoo Liner <br> Eyeliner</p>
+            <p class="precioProducto">23,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto16" src="img/maquillaje/Better Than Sex Eyeliner - Eyeliner líquido.jpg" alt="Better Than Sex Eyeliner - Eyeliner líquido">
+            <p class="nombreProducto">Too Faced | Better Than Love <br>Eyeliner líquido</p>
+            <p class="precioProducto">29,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto16" src="img/maquillaje/Perfect Strokes - Delineador líquido mate.jpg" alt="Perfect Strokes - Delineador líquido mate">
+            <p class="nombreProducto">Rare Beauty | Perfect Strokes<br> Delineador líquido mate</p>
+            <p class="precioProducto">26,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto16" src="img/maquillaje/High Impact™ Gel Tech Eyeliner.jpg" alt="High Impact™ Gel Tech Eyeliner">
+            <p class="nombreProducto">Clinique | High Impact Gel <br>Tech Eyeliner</p>
+            <p class="precioProducto">28,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto16" src="img/maquillaje/Brocha - Pincel delineador profesional n.º 22.jpg" alt="Brocha - Pincel delineador profesional n.º 22">
+            <p class="nombreProducto">Sephora | Brocha - Pincel <br> delineador profesional</p>
+            <p class="precioProducto">19,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto16" src="img/maquillaje/Perfect Strokes - Delineador líquido mate.jpg" alt="Perfect Strokes Gel Eyeliner">
+            <p class="nombreProducto">Rare Beauty | Perfect Strokes Gel Eyeliner</p>
+            <p class="precioProducto">20,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto16" src="img/maquillaje/Clean Line - Delineador de ojos líquido.jpg" alt="Clean Line - Delineador de ojos líquido">
+            <p class="nombreProducto">Ilia | Clean Line - Delineador <br>de ojos líquido</p>
+            <p class="precioProducto">29,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto16" src="img/maquillaje/Mini Tattoo Pencil Liner - Eyeliner.jpg" alt="Mini Tattoo Pencil Liner - Eyeliner">
+            <p class="nombreProducto">KVD Beauty | Mini Tattoo <br>Pencil Liner Eyeliner</p>
+            <p class="precioProducto">14,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
     </section>
