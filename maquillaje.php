@@ -41,49 +41,49 @@
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto1" src="img/maquillaje/High Impact High-Fi™ Full Volume.png" alt="High Impact High-Fi™ Full Volume">
-            <p class="nombreProducto">High Impact High-Fi™ Full Volume</p>
+            <p class="nombreProducto">High Impact High-Fi <br> Full Volume</p>
             <p class="precioProducto">36,00 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
             <img class="imgProducto2" src="img/maquillaje/High Impact Lash Amplifying Serum.jpeg" alt="High Impact Lash Amplifying Serum">
-            <p class="nombreProducto">High Impact Lash Amplifying Serum</p>
+            <p class="nombreProducto">High Impact Lash <br>Amplifying Serum</p>
             <p class="precioProducto">53,00 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
             <img class="imgProducto3" src="img/maquillaje/Brow Harmony Flexible Lifting Gel.jpeg" alt="Brow Harmony Flexible Lifting Gel">
-            <p class="nombreProducto">Brow Harmony Flexible Lifting Gel</p>
+            <p class="nombreProducto">Brow Harmony Flexible <br> Lifting Gel</p>
             <p class="precioProducto">21,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
             <img class="imgProducto2" src="img/maquillaje/DEFINITIVE MASCARA DE JORGE DE LA GARZA.jpeg" alt="DEFINITIVE MASCARA DE JORGE DE LA GARZA">
-            <p class="nombreProducto">Defenitive | Mascara De Jorge De La Garza</p>
+            <p class="nombreProducto">Defenitive | Mascara De <br> Jorge De La Garza</p>
             <p class="precioProducto">20,50 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
             <img class="imgProducto4" src="img/maquillaje/Cofre Diorshow Esencial Ojos.jpg" alt="Cofre Diorshow Esencial Ojos">
-            <p class="nombreProducto">Dior | Cofre Diorshow Esencial Ojos</p>
+            <p class="nombreProducto">Dior | Cofre Diorshow <br>Esencial Ojos</p>
             <p class="precioProducto">44,60 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
             <img class="imgProducto3" src="img/maquillaje/EVOEYE SERUM CRECIMIENTO DE PESTAÑAS.jpg" alt="EVOEYE SERUM CRECIMIENTO DE PESTAÑAS">
-            <p class="nombreProducto">Evoeye Serum Crecimiento De Pestañas</p>
+            <p class="nombreProducto">Evoeye | Serum Crecimiento <br> De Pestañas</p>
             <p class="precioProducto">69,95 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
             <img class="imgProducto2" src="img/maquillaje/Master Blade -Lapiz de cejas.jpg" alt="Master Blade® -Lapiz de cejas">
-            <p class="nombreProducto">Mario | Master Blade - Lapiz de cejas</p>
+            <p class="nombreProducto">Mario | Master Blade <br>Lapiz de cejas</p>
             <p class="precioProducto">26,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
             <img class="imgProducto2" src="img/maquillaje/Mini Brow Genius - Sérum para cejas MINI.jpg" alt="Mini Brow Genius - Sérum para cejas MINI">
-            <p class="nombreProducto">Mini Brow Genius - Sérum para cejas MINI</p>
+            <p class="nombreProducto">Mini Brow Genius Sérum <br> para cejas MINI</p>
             <p class="precioProducto">40,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
@@ -93,7 +93,7 @@
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto5" src="img/maquillaje/Hydra-Peptide Lip Butter .jpg" alt="Hydra-Peptide Lip Butter ">
-            <p class="nombreProducto">Nudestix | Hydra-Peptide Lip Butter </p>
+            <p class="nombreProducto">Nudestix | Hydra-Peptide <br>Lip Butter </p>
             <p class="precioProducto">17,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
@@ -145,7 +145,7 @@
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto8" src="img/maquillaje/Dior Forever Skin Correct - Corrector de alta cobertura.jpg" alt="Dior Forever Skin Correct - Corrector de alta cobertura">
-            <p class="nombreProducto">Dior Forever Skin Correct - Corrector de alta cobertura</p>
+            <p class="nombreProducto">Dior Forever Skin Correct<br> de alta cobertura</p>
             <p class="precioProducto">41,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
@@ -239,7 +239,7 @@
         </div>
         <div class="producto">
             <img class="imgProducto7" src="img/maquillaje/Forever Skin Correct - Corrector de alta cobertura  .jpg" alt="Forever Skin Correct - Corrector de alta cobertura ">
-            <p class="nombreProducto">Dior | Forever Skin Correct - Corrector de alta cobertura </p>
+            <p class="nombreProducto">Dior | Forever Skin Correct<br> de alta cobertura </p>
             <p class="precioProducto">41,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
