@@ -278,8 +278,8 @@
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto12" src="img/maquillaje/Soft Pop Plumping Blush Veil.jpg" alt="Soft Pop Plumping Blush Veil">
-            <p class="nombreProducto">Mario | Soft Pop Plumping Blush Veil</p>
+            <img class="imgProducto14" src="img/maquillaje/Soft Pop Plumping Blush Veil.jpg" alt="Soft Pop Plumping Blush Veil">
+            <p class="nombreProducto">Mario | Soft Pop Plumping <br>Blush Veil</p>
             <p class="precioProducto">33,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
@@ -300,51 +300,51 @@
     <h2>Polvos</h2>
     <section class="contenedorProductos">
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto8" src="img/maquillaje/Ever Matte - Polvos Sueltos.jpg" alt="Ever Matte - Polvos Sueltos">
+            <p class="nombreProducto">Clarins | Ever Matte - Polvos Sueltos</p>
+            <p class="precioProducto">49,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto8" src="img/maquillaje/Skin Fetish Sublime Perfection.jpg" alt="Skin Fetish Sublime Perfection">
+            <p class="nombreProducto">PAT McGRATH LABS | Skin Fetish Sublime Perfection</p>
+            <p class="precioProducto">48,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto12" src="img/maquillaje/Polvo Iluminador - GloWish Luminous Powder.jpg" alt="Polvo Iluminador - GloWish Luminous Powder">
+            <p class="nombreProducto">Huda Beauty | Polvo Iluminador - GloWish Luminous Powder</p>
+            <p class="precioProducto">39,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto13" src="img/maquillaje/Ultra HD Setting Powder .jpg" alt="Ultra HD Setting Powder ">
+            <p class="nombreProducto">Make up Forever | Ultra HD <br> Setting Powder </p>
+            <p class="precioProducto">19,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto14" src="img/maquillaje/Forever Cushion Powder - Polvos sueltos de rostro .jpg" alt="Forever Cushion Powder - Polvos sueltos de rostro ">
+            <p class="nombreProducto">Dior | Forever Cushion Powder <br> Polvos sueltos de rostro </p>
+            <p class="precioProducto">69,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto15" src="img/maquillaje/Luminous Silk Glow Fusion Powder.jpg" alt="Luminous Silk Glow Fusion Powder">
+            <p class="nombreProducto">Armani | Luminous Silk Glow Fusion Powder</p>
+            <p class="precioProducto">55,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto15" src="img/maquillaje/Almost Powder Makeup Base natural en polvo.jpg" alt="Almost Powder Makeup Base natural en polvo">
+            <p class="nombreProducto">Clinique | Almost Powder <br> Makeup Base natural en polvo</p>
+            <p class="precioProducto">44,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
         <div class="producto">
-            <img class="imgProducto3" src="img/maquillaje">
-            <p class="nombreProducto"></p>
-            <p class="precioProducto"></p>
+            <img class="imgProducto14" src="img/maquillaje/GloWish - Soft Radiance Bronzing Powder.jpg" alt="GloWish - Soft Radiance Bronzing Powder">
+            <p class="nombreProducto">Huda Beauty | GloWish <br> Soft Radiance Bronzing Powder</p>
+            <p class="precioProducto">19,99 €</p>
             <p class="botonCompraProducto">Comprar</p>
         </div>
     </section>
