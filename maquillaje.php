@@ -37,7 +37,7 @@
         </div>
     </aside>
 
-    <h2>Máscara de Pestañas</h2>
+    <h2 class="tituloProductos">Máscara de Pestañas</h2>
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto1" src="img/maquillaje/High Impact High-Fi™ Full Volume.png" alt="High Impact High-Fi™ Full Volume">
@@ -89,7 +89,7 @@
         </div>
     </section>
 
-    <h2>Labios</h2>
+    <h2 class="tituloProductos">Labios</h2>
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto5" src="img/maquillaje/Hydra-Peptide Lip Butter .jpg" alt="Hydra-Peptide Lip Butter ">
@@ -141,7 +141,17 @@
         </div>
     </section>
 
-    <h2>Bases de Maquillaje</h2>
+    <aside class="cajaProbador">
+        <figure class="comparativaMaquillaje">
+            <img class="imgComparativa" src="img/maquillaje/comparativaMaquillaje.jpeg">
+        </figure>
+        <h2 class="tituloProbador">PROBADOR DE MAQUILLAJE VIRTUAL</h2>
+        <p class="textoProbador">¿Quires saber cómo te quedan tus productos favoritos de Sephora y de tus marcas favoritas? ¡Pruébalos ahora mismo!</p>
+        <p class="botonExplorar">EXPLORAR MÁS</p>
+        <img class="imgBoton" src="img/maquillaje/flecha.png">
+    </aside>
+
+    <h2 class="tituloProductos">Bases de Maquillaje</h2>
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto8" src="img/maquillaje/Dior Forever Skin Correct - Corrector de alta cobertura.jpg" alt="Dior Forever Skin Correct - Corrector de alta cobertura">
@@ -193,7 +203,7 @@
         </div>
     </section>
 
-    <h2>Correctores</h2>
+    <h2 class="tituloProductos">Correctores</h2>
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto9" src="img/maquillaje/Positive Light - Corrector líquido ultraligero.jpg" alt="Positive Light - Corrector líquido ultraligero">
@@ -245,7 +255,23 @@
         </div>
     </section>
 
-    <h2>Colorete</h2>
+    <aside class="contenedorTrucos">
+        <h2>TRUCOS Y TUTORIALES</h2>
+        <div class="trucos1">
+            <p>LATTE MAKE UP: APRENDE A HACERLO</p>
+        </div>
+        <div class="trucos2">
+            <p>STRAWBERRY MAKEUP</p>
+        </div>
+        <div class="trucos3">
+            <p>COMO PINTARSE LOS OJOS PASO A PASO</p>
+        </div>
+        <div class="trucos4">
+            <p>TIPS DE MAQUILLAJE</p>
+        </div>
+    </aside>
+
+    <h2 class="tituloProductos">Colorete</h2>
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto5" src="img/maquillaje/Color Haze - Crema Multi-uso Color Haze.jpg" alt="Color Haze - Crema Multi-uso Color Haze">
@@ -297,7 +323,7 @@
         </div>
     </section>
 
-    <h2>Polvos</h2>
+    <h2 class="tituloProductos">Polvos</h2>
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto8" src="img/maquillaje/Ever Matte - Polvos Sueltos.jpg" alt="Ever Matte - Polvos Sueltos">
@@ -349,7 +375,7 @@
         </div>
     </section>
 
-    <h2>Eyeliner</h2>
+    <h2 class="tituloProductos">Eyeliner</h2>
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto16" src="img/maquillaje/KVD Beauty Tattoo Liner Eyeliner.jpg" alt="KVD Beauty | Tattoo Liner Eyeliner">
