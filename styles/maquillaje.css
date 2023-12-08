@@ -86,24 +86,21 @@ figure{
 }
 
 .tituloProductos {
-    font-size: 40px;
-    font-weight: 500;
-    font-family: Helvetica,Arial,sans-serif;
-    color: #333;
-    margin-left: 70px;
+    font-size: 60px;
+    font-family: helvetica,arial,sans-serif;
+    margin-left: 55px;
     clear: both;
     position: relative;
-    top: 80px;
-    padding: 0;
+    top: 50px;
+    padding: 0; 
 }
 
 .contenedorProductos{
     width: 100%;
     height: 1250px;
-    border: 1px solid #000000;
     position: relative;
-    top: 80px;
-    margin-bottom: 140px;
+    top: 10px;
+    margin-bottom: 100px;
 }
 
 .producto{
@@ -279,7 +276,7 @@ figure{
     border-top: 2px solid black;
     border-bottom: 2px solid black;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 100px;
     clear: both;
 }
 
@@ -341,21 +338,10 @@ figure{
 
 .contenedorTrucos{
     width: 100%;
-    height: 750px;
-    border: 2px solid black;
+    height: 700px;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 100px;
     clear: both;
-}
-
-.contenedorTrucos div{
-    width: 22%;
-    height: 550px;
-    float: left;
-    margin-left: 2.3%;
-    margin-top: 50px;
-    border: 1px solid black;
-    cursor: pointer;
 }
 
 .contenedorTrucos h2{
@@ -363,40 +349,57 @@ figure{
     font-family: helvetica,arial,sans-serif;
     margin: 0;
     margin-top: 40px;
-    margin-left: 20px; 
+    margin-left: 40px; 
+    margin-bottom: 20px;
 }
 
-.contenedorTrucos P{
-    color: black;
-    font-size: 22px;
-    font-weight: 500;
-    width: 90%;
+.contenedorTrucos div{
+    width: 21%;
+    height: 500px;
+    float: left;
+    margin-left: 3.2%;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.contenedorTrucos p{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    width: 88%;
     margin: auto;
+    position: relative;
+    top: 85%;
 }
 
-.trucos1{
-    background-image: url(../img/maquillaje/trucos1.jpg);
+.contenedorTrucos p:hover{
+    text-decoration: underline;
+}
+
+
+.truco1{
+    background-image: url(../img/maquillaje/truco1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.trucos2{
-    background-image: url(../img/maquillaje/trucos2.jpg);
+.truco2{
+    background-image: url(../img/maquillaje/truco2.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.trucos3{
-    background-image: url(../img/maquillaje/trucos3.jpg);
+.truco3{
+    background-image: url(../img/maquillaje/truco3.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.trucos4{
-    background-image: url(../img/maquillaje/trucos4.jpg);
+.truco4{
+    background-image: url(../img/maquillaje/truco4.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

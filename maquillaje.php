@@ -257,21 +257,21 @@
 
     <aside class="contenedorTrucos">
         <h2>TRUCOS Y TUTORIALES</h2>
-        <div class="trucos1">
-            <p>LATTE MAKE UP: APRENDE A HACERLO</p>
+        <div class="truco1">
+            <p>MAKE UP: APRENDE A HACERLO</p>
         </div>
-        <div class="trucos2">
+        <div class="truco2">
             <p>STRAWBERRY MAKEUP</p>
         </div>
-        <div class="trucos3">
+        <div class="truco3">
             <p>COMO PINTARSE LOS OJOS PASO A PASO</p>
         </div>
-        <div class="trucos4">
+        <div class="truco4">
             <p>TIPS DE MAQUILLAJE</p>
         </div>
     </aside>
 
-    <h2 class="tituloProductos">Colorete</h2>
+    <h2 class="tituloProductos">COLORETE</h2>
     <section class="contenedorProductos">
         <div class="producto">
             <img class="imgProducto5" src="img/maquillaje/Color Haze - Crema Multi-uso Color Haze.jpg" alt="Color Haze - Crema Multi-uso Color Haze">
