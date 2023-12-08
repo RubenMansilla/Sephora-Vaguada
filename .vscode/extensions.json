@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "rifi2k.format-html-in-php",
+        "bmewburn.vscode-intelephense-client",
+        "xdebug.php-debug",
+        "aaron-bond.better-comments",
+    ]
+}
