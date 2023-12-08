@@ -11,22 +11,22 @@
     <link rel="stylesheet" href="./styles/skincare.css?v=<?php echo time(); ?>">
 </head>
 <body>
-    
     <?php 
         include './includes/header.php'; 
         include './includes/nav.php';
     ?>
 
-    <section>
-    <img class="imagen" src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-    <p class="nombre">Gel-Crema Limpiador  <br> BYOMA</p>
+    <div class="main">
+        <section class="contenedor">
+            <img class="imagen" src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
+            <p class="nombre">Gel-Crema Limpiador <br> BYOMA</p>
             <p class="precio">12,99 €</p>
             <p class="comprar">Comprar</p>
-    </section>
+        </section>
+    </div>
+
     <?php 
         include './includes/footer.php'; 
     ?>
-
 </body>
 </html>
-

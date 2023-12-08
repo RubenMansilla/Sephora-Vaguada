@@ -9,17 +9,17 @@
     <link rel="icon" href="img/favicon/icono.jpeg">
 </head>
 <body>
-    
     <?php 
         include './includes/header.php'; 
         include './includes/nav.php';
     ?>
 
-    <section></section>
+    <div class="main">
+        <section></section>
+    </div>
 
     <?php 
         include './includes/footer.php'; 
     ?>
-
 </body>
 </html>

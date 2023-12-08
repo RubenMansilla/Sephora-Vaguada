@@ -1,13 +1,15 @@
 /* Se agrega el estilo de la fuente desde Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,400&display=swap");
 
 * {
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
 body {
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-size: 16px;
     color: #000;
@@ -40,7 +42,7 @@ nav {
     z-index: 100;
 }
 
-nav ul{
+nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -48,14 +50,14 @@ nav ul{
     width: 100%;
 }
 
-nav ul li{
-    margin: 0 auto ;
+nav ul li {
+    margin: 0 auto;
     float: left;
     width: 16.6669%;
     background-color: white;
 }
 
-nav ul li a{
+nav ul li a {
     transition: all 0.3s ease-in-out;
     height: 50px;
     display: block;
@@ -69,19 +71,36 @@ nav ul li a{
     border-bottom: 1px solid black;
 }
 
-a:hover{
+nav ul li a:hover {
     background-color: #ededed;
     border-bottom: 3px solid black;
 }
 
-section {
-    height: 100vh;
-    min-height: 400px;
-    margin-top: 50px;
+.main {
+    margin: auto;
+    max-width: 1440px;
+    min-height: 100vh;
+}
+
+/* Con esto evitamos que el contenido se desborde, cada main y contenedor que use float no debería de desbordarse, principalmente gracias al clear:both */
+.main::after,
+.contenedor::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.contenedor {
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+}
+.contenedor:first-child {
+    margin-top: 0;
 }
 
 footer {
-    clear: both;
     background-color: black;
     min-height: 100px;
 }
