@@ -1,32 +1,23 @@
-figure{
-    padding: 0;
-    margin: 0;
+/* Sección de anuncios de descuentos */
+.contenedorDescuentos {
+    padding: 50px 55px;
+    font-family: work sans, sans-serif;
+    text-align: center;
 }
 
 .descuentoMaquillaje {
     width: 45%;
     height: 400px;
     float: left;
-    margin-left: 55px;
-    margin-top: 50px;
     background-image: url(../img/maquillaje/anuncio3.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
 }
-
-.descuentoMaquillaje2 {
-    width: 45%;
-    height: 400px;
-    float: right;
-    margin-right: 55px;
-    margin-top: 50px;
-    background-image: url();
+.descuentoMaquillaje:nth-child(2) {
     background-image: url(../img/maquillaje/anuncio2.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    float: right;
 }
 
 .cajaTexto {
@@ -37,31 +28,18 @@ figure{
     top: 8%;
 }
 
-.texto1 {
-    font-family: work sans,sans-serif;
+.cajaTexto p {
     color: white;
-    text-align: center;
-    font-size: 40px;
-    margin: 0;
-    padding-top:  20px;
-    padding-bottom: 20px;
-    font-weight: 400;
     background-color: rgb(203, 61, 87);
-
-    padding: 10px;
 }
-
-.texto2 {
+.cajaTexto p:first-child {
+    padding: 10px;
+    font-size: 40px;
+}
+.cajaTexto p:last-child {
     font-size: 50px;
     font-weight: 600;
-    background-color: rgb(203, 61, 87);
-    font-family: work sans,sans-serif;
-    text-align: center;
-    color: white;
-    padding: 0;
-    margin: 0;
     padding-bottom: 5px;
-
 }
 
 .cajaDescuento {
@@ -72,205 +50,102 @@ figure{
     bottom: 30%;
 }
 
-.descuento{
+.cajaDescuento p {
     font-size: 80px;
-    font-family: work sans,sans-serif;
-    color: #333;
-    text-align: center;
     color: rgb(203, 61, 87);
-    margin: 0;
     padding-top: 15px;
-    padding-left: 20px;
     font-weight: 600;
     -webkit-text-stroke: 2px white;
 }
 
-.tituloProductos {
-    font-size: 60px;
-    font-family: helvetica,arial,sans-serif;
-    margin-left: 55px;
-    clear: both;
-    position: relative;
-    top: 50px;
-    padding: 0; 
+/* Sección de productos */
+.contenedorProductos {
+    padding: 55px;
 }
 
-.contenedorProductos{
+.tituloProductos {
+    font-size: 60px;
+    font-family: helvetica, arial, sans-serif;
+    clear: both;
+}
+
+.productos {
     width: 100%;
     height: 1250px;
     position: relative;
     top: 10px;
-    margin-bottom: 100px;
 }
 
-.producto{
+.producto {
+    text-align: center;
+    padding: 16px;
     width: 20%;
     height: 550px;
     float: left;
-    margin-left: 4%;
-    margin-top: 50px;
-    border: 1px solid rgb(225, 223, 223);
-    box-shadow: 0 0 15px rgb(225, 223, 223);
+    margin-left: 6.66%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 5px;
     cursor: pointer;
+    border: 1px solid #e1dfdf;
+    box-shadow: 0 0 15px #e1dfdf;
+}
+/* cada 4 productos, el margen izquierdo es 0 */
+.producto:nth-child(4n+1) {
+    margin-left: 0;
 }
 
-.imgProducto1{
-    width: 300; 
+/* Sección de máscara de pestañas en productos */
+.imagenProducto {
+    width: 100%;
     height: 300px;
-    margin-top: 10px;
-    position: relative;
-    left: 40%;
+    margin: 10px auto;
+}
+.imagenProducto img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
 
-.imgProducto2{
-    width: 300; 
-    height: 300px;
-    margin-top: 10px;
-    position: relative;
-    left: 37%;
-}
-
-.imgProducto3{
-    width: 300; 
-    height: 300px;
-    margin-top: 10px;
-    position: relative;
-    left: 30%;
-}
-
-.imgProducto4{
-    width: 300; 
-    height: 300px;
-    margin-left: 80px;
-    margin-top: 10px;
-}
-
-.imgProducto5{
-    width: 300; 
-    height: 300px;
-    margin-left: 110px;
-    margin-top: 10px;
-}
-
-.imgProducto6{
-    width: 300; 
-    height: 300px;
-    margin-left: 120px;
-    margin-top: 10px;
-}
-
-.imgProducto7{
-    width: 300; 
-    height: 300px;
-    margin-left: 60px;
-    margin-top: 10px;
-}
-
-.imgProducto8{
-    width: 300; 
-    height: 300px;
-    margin-left: 70px;
-    margin-top: 10px;
-}
-
-.imgProducto9{
-    position: relative;
-    left: 42%;
-    width: 300; 
-    height: 300px;
-    margin-top: 10px;
-}
-
-.imgProducto10{
-    width: 300; 
-    height: 300px;
-    margin-left: 50px;
-    margin-top: 10px;
-}
-
-.imgProducto11{
-    width: 300; 
-    height: 300px;
-    margin-left: 2px;
-    margin-top: 10px;
-}
-
-.imgProducto12{
-    width: 300; 
-    height: 300px;
-    margin-left: 13px;
-    margin-top: 10px;
-}
-
-.imgProducto13{
-    width: 280; 
-    height: 280px;
-    margin-left: 5px;
-    margin-top: 10px;
-    margin-bottom: 18px;
-}
-
-.imgProducto14{
-    width: 300; 
-    height: 300px;
-    margin-left: 25px;
-    margin-top: 10px;
-}
-
-.imgProducto15{
-    width: 300; 
-    height: 300px;
-    margin-left: 40px;
-    margin-top: 10px;
-}
-
-.imgProducto16{
-    width: 300; 
-    height: 300px;
-    margin-left: 140px;
-    margin-top: 10px;
-}
-
-.nombreProducto{
-    text-align: center;
+.nombreProducto {
+    margin: 16px 0;
     line-height: 1.5;
     font-size: 21px;
+    width: 100%;
+    height: 63px;
+    max-height: 63px;
+    overflow: hidden;
+    text-overflow: clip;
+    white-space: normal;
 }
 
-.precioProducto{
-    text-align: center;
+.precioProducto {
     font-size: 20px;
     font-weight: 600;
-    line-height: 1.5; 
+    line-height: 1.5;
 }
-    
-.botonCompraProducto{
+
+.botonCompraProducto {
+    margin: 16px auto 0;
     width: 70%;
-    position: relative;
-    left: 15%;
     background-color: #000;
-    border-width: 2px;
-    border-style: solid;
-    border-color: #000;
-    font-family: "Work Sans",sans-serif;
-    font-size: 15px;
-    letter-spacing: .19px;
+    border: 2px solid #000;
+    font-family: "Work Sans", sans-serif;
+    letter-spacing: 0.19px;
     color: #fff;
-    line-height: 1.33;
-    padding: 12.5px 12px;
+    padding: 12px;
     border-radius: 6px;
     cursor: pointer;
-    text-align: center;
     box-sizing: border-box;
     transition: all 0.2s ease-in-out;
 }
 
-.botonCompraProducto:hover{
+.botonCompraProducto:hover {
     background-color: #fff;
-    color: #000;;
+    color: #000;
 }
 
-.cajaProbador{
+.cajaProbador {
     width: 90%;
     height: 650px;
     border-top: 2px solid black;
@@ -280,7 +155,7 @@ figure{
     clear: both;
 }
 
-.comparativaMaquillaje{
+.comparativaMaquillaje {
     width: 40%;
     height: 90%;
     float: right;
@@ -288,16 +163,16 @@ figure{
     margin-top: 30px;
 }
 
-.imgComparativa{
+.imgComparativa {
     width: 100%;
     height: 100%;
 }
 
-.tituloProbador{
+.tituloProbador {
     width: 50%;
     float: left;
     font-size: 70px;
-    font-family: helvetica,arial,sans-serif;
+    font-family: helvetica, arial, sans-serif;
     margin: 0;
     margin-top: 120px;
     margin-bottom: 10px;
@@ -308,26 +183,26 @@ figure{
     width: 45%;
     float: left;
     font-size: 18px;
-    font-family: helvetica,arial,sans-serif;
+    font-family: helvetica, arial, sans-serif;
     line-height: 1.5;
     letter-spacing: 1px;
     margin-right: 10px;
 }
 
-.botonExplorar{
-    width:fit-content;
+.botonExplorar {
+    width: fit-content;
     float: left;
     font-size: 22px;
-    font-family: helvetica,arial,sans-serif;
+    font-family: helvetica, arial, sans-serif;
     font-weight: 600;
 }
 
-.botonExplorar:hover{
+.botonExplorar:hover {
     cursor: pointer;
     border-bottom: 3px solid black;
 }
 
-.imgBoton{
+.imgBoton {
     width: 50px;
     height: 50px;
     float: left;
@@ -336,7 +211,7 @@ figure{
     cursor: pointer;
 }
 
-.contenedorTrucos{
+.contenedorTrucos {
     width: 100%;
     height: 700px;
     margin: auto;
@@ -344,16 +219,16 @@ figure{
     clear: both;
 }
 
-.contenedorTrucos h2{
+.contenedorTrucos h2 {
     font-size: 60px;
-    font-family: helvetica,arial,sans-serif;
+    font-family: helvetica, arial, sans-serif;
     margin: 0;
     margin-top: 40px;
-    margin-left: 40px; 
+    margin-left: 40px;
     margin-bottom: 20px;
 }
 
-.contenedorTrucos div{
+.contenedorTrucos div {
     width: 21%;
     height: 500px;
     float: left;
@@ -362,7 +237,7 @@ figure{
     cursor: pointer;
 }
 
-.contenedorTrucos p{
+.contenedorTrucos p {
     color: white;
     font-size: 25px;
     font-weight: 600;
@@ -372,32 +247,32 @@ figure{
     top: 85%;
 }
 
-.contenedorTrucos p:hover{
+.contenedorTrucos p:hover {
     text-decoration: underline;
 }
 
-.truco1{
+.truco1 {
     background-image: url(../img/maquillaje/truco1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.truco2{
+.truco2 {
     background-image: url(../img/maquillaje/truco2.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.truco3{
+.truco3 {
     background-image: url(../img/maquillaje/truco3.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.truco4{
+.truco4 {
     background-image: url(../img/maquillaje/truco4.jpg);
     background-size: cover;
     background-position: center;
