@@ -54,7 +54,7 @@
                         <img class="imgProducto2" src="img/maquillaje/High Impact Lash Amplifying Serum.jpeg"
                             alt="High Impact Lash Amplifying Serum">
                     </figure>
-                    <p class="nombreProducto">High Impact Lash <br>Amplifying Serum</p>
+                    <p class="nombreProducto">High Impact Lash Amplifying Serum</p>
                     <p class="precioProducto">53,00 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -63,7 +63,7 @@
                         <img class="imgProducto3" src="img/maquillaje/Brow Harmony Flexible Lifting Gel.jpeg"
                             alt="Brow Harmony Flexible Lifting Gel">
                     </figure>
-                    <p class="nombreProducto">Brow Harmony Flexible <br> Lifting Gel</p>
+                    <p class="nombreProducto">Brow Harmony Flexible Lifting Gel</p>
                     <p class="precioProducto">21,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -72,7 +72,7 @@
                         <img class="imgProducto2" src="img/maquillaje/DEFINITIVE MASCARA DE JORGE DE LA GARZA.jpeg"
                             alt="DEFINITIVE MASCARA DE JORGE DE LA GARZA">
                     </figure>
-                    <p class="nombreProducto">Defenitive | Mascara De <br> Jorge De La Garza</p>
+                    <p class="nombreProducto">Defenitive | Mascara De Jorge De La Garza</p>
                     <p class="precioProducto">20,50 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -81,7 +81,7 @@
                         <img class="imgProducto4" src="img/maquillaje/Cofre Diorshow Esencial Ojos.jpg"
                             alt="Cofre Diorshow Esencial Ojos">
                     </figure>
-                    <p class="nombreProducto">Dior | Cofre Diorshow <br>Esencial Ojos</p>
+                    <p class="nombreProducto">Dior | Cofre Diorshow Esencial Ojos</p>
                     <p class="precioProducto">44,60 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -90,7 +90,7 @@
                         <img class="imgProducto3" src="img/maquillaje/EVOEYE SERUM CRECIMIENTO DE PESTAÑAS.jpg"
                             alt="EVOEYE SERUM CRECIMIENTO DE PESTAÑAS">
                     </figure>
-                    <p class="nombreProducto">Evoeye | Serum Crecimiento <br> De Pestañas</p>
+                    <p class="nombreProducto">Evoeye | Serum Crecimiento De Pestañas</p>
                     <p class="precioProducto">69,95 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -99,7 +99,7 @@
                         <img class="imgProducto2" src="img/maquillaje/Master Blade -Lapiz de cejas.jpg"
                             alt="Master Blade® -Lapiz de cejas">
                     </figure>
-                    <p class="nombreProducto">Mario | Master Blade <br>Lapiz de cejas</p>
+                    <p class="nombreProducto">Mario | Master Blade Lapiz de cejas</p>
                     <p class="precioProducto">26,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -108,7 +108,7 @@
                         <img class="imgProducto2" src="img/maquillaje/Mini Brow Genius - Sérum para cejas MINI.jpg"
                             alt="Mini Brow Genius - Sérum para cejas MINI">
                     </figure>
-                    <p class="nombreProducto">Mini Brow Genius Sérum <br> para cejas MINI</p>
+                    <p class="nombreProducto">Mini Brow Genius Sérum para cejas MINI</p>
                     <p class="precioProducto">40,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -123,7 +123,7 @@
                         <img class="imgProducto5" src="img/maquillaje/Hydra-Peptide Lip Butter .jpg"
                             alt="Hydra-Peptide Lip Butter ">
                     </figure>
-                    <p class="nombreProducto">Nudestix | Hydra-Peptide <br>Lip Butter </p>
+                    <p class="nombreProducto">Nudestix | Hydra-Peptide Lip Butter </p>
                     <p class="precioProducto">17,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -198,14 +198,17 @@
         </section>
 
         <aside class="cajaProbador">
+            <div>
+                <h2 class="tituloProbador">PROBADOR DE MAQUILLAJE VIRTUAL</h2>
+                <p class="textoProbador">¿Quieres saber cómo te quedan tus productos favoritos de Sephora y de tus
+                    marcas
+                    favoritas? ¡Pruébalos ahora mismo!</p>
+                <p class="botonExplorar">EXPLORAR MÁS</p>
+                <img class="imgBoton" src="img/maquillaje/flecha.png">
+            </div>
             <figure class="comparativaMaquillaje">
-                <img class="imgComparativa" src="img/maquillaje/comparativaMaquillaje.jpeg">
+                <img src="img/maquillaje/comparativaMaquillaje.jpeg">
             </figure>
-            <h2 class="tituloProbador">PROBADOR DE MAQUILLAJE VIRTUAL</h2>
-            <p class="textoProbador">¿Quieres saber cómo te quedan tus productos favoritos de Sephora y de tus marcas
-                favoritas? ¡Pruébalos ahora mismo!</p>
-            <p class="botonExplorar">EXPLORAR MÁS</p>
-            <img class="imgBoton" src="img/maquillaje/flecha.png">
         </aside>
 
         <section class="contenedor contenedorProductos">
@@ -217,7 +220,7 @@
                             src="img/maquillaje/Dior Forever Skin Correct - Corrector de alta cobertura.jpg"
                             alt="Dior Forever Skin Correct - Corrector de alta cobertura">
                     </figure>
-                    <p class="nombreProducto">Dior Forever Skin Correct<br> de alta cobertura</p>
+                    <p class="nombreProducto">Dior Forever Skin Correct de alta cobertura</p>
                     <p class="precioProducto">41,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -246,7 +249,7 @@
                             src="img/maquillaje/Rare Beauty  Liquid Touch br Base de maquillaje ligera.jpg"
                             alt="Rare Beauty | Liquid Touch Base de maquillaje ligera">
                     </figure>
-                    <p class="nombreProducto">Rare Beauty | Liquid Touch <br> Base de maquillaje ligera</p>
+                    <p class="nombreProducto">Rare Beauty | Liquid Touch Base de maquillaje ligera</p>
                     <p class="precioProducto">34,49 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -275,7 +278,7 @@
                             src="img/maquillaje/Eaze drop - Base de Maquillaje Efecto Difuminado.jpg"
                             alt="Eaze drop - Base de Maquillaje Efecto Difuminado">
                     </figure>
-                    <p class="nombreProducto">Fenty Beauty | Eaze drop <br>Base de Efecto Difuminado</p>
+                    <p class="nombreProducto">Fenty Beauty | Eaze drop Base de Efecto Difuminado</p>
                     <p class="precioProducto">36,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -300,7 +303,7 @@
                             src="img/maquillaje/Positive Light - Corrector líquido ultraligero.jpg"
                             alt="Positive Light - Corrector líquido ultraligero">
                     </figure>
-                    <p class="nombreProducto">Rare Beauty | Positive Light <br> Corrector líquido ultraligero</p>
+                    <p class="nombreProducto">Rare Beauty | Positive Light Corrector líquido ultraligero</p>
                     <p class="precioProducto">29,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -366,26 +369,28 @@
                             src="img/maquillaje/Forever Skin Correct - Corrector de alta cobertura  .jpg"
                             alt="Forever Skin Correct - Corrector de alta cobertura ">
                     </figure>
-                    <p class="nombreProducto">Dior | Forever Skin Correct<br> de alta cobertura </p>
+                    <p class="nombreProducto">Dior | Forever Skin Correct de alta cobertura </p>
                     <p class="precioProducto">41,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
             </div>
         </section>
 
-        <aside class="contenedorTrucos">
+        <aside class="contenedor contenedorTrucos">
             <h2>TRUCOS Y TUTORIALES</h2>
-            <div class="truco1">
-                <p>MAKE UP: APRENDE A HACERLO</p>
-            </div>
-            <div class="truco2">
-                <p>STRAWBERRY MAKEUP</p>
-            </div>
-            <div class="truco3">
-                <p>COMO PINTARSE LOS OJOS PASO A PASO</p>
-            </div>
-            <div class="truco4">
-                <p>TIPS DE MAQUILLAJE</p>
+            <div class="trucos">
+                <div class="truco1">
+                    <p>MAKE UP: APRENDE A HACERLO</p>
+                </div>
+                <div class="truco2">
+                    <p>STRAWBERRY MAKEUP</p>
+                </div>
+                <div class="truco3">
+                    <p>COMO PINTARSE LOS OJOS PASO A PASO</p>
+                </div>
+                <div class="truco4">
+                    <p>TIPS DE MAQUILLAJE</p>
+                </div>
             </div>
         </aside>
 
@@ -443,7 +448,7 @@
                         <img class="imgProducto14" src="img/maquillaje/Soft Pop Plumping Blush Veil.jpg"
                             alt="Soft Pop Plumping Blush Veil">
                     </figure>
-                    <p class="nombreProducto">Mario | Soft Pop Plumping <br>Blush Veil</p>
+                    <p class="nombreProducto">Mario | Soft Pop Plumping Blush Veil</p>
                     <p class="precioProducto">33,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -452,7 +457,7 @@
                         <img class="imgProducto10" src="img/maquillaje/Afterglow Liquid Blush - Colorete líquido.jpg"
                             alt="Afterglow Liquid Blush - Colorete líquido">
                     </figure>
-                    <p class="nombreProducto">Nars | Afterglow Liquid Blush <br> Colorete líquido</p>
+                    <p class="nombreProducto">Nars | Afterglow Liquid Blush Colorete líquido</p>
                     <p class="precioProducto">39,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -503,7 +508,7 @@
                         <img class="imgProducto13" src="img/maquillaje/Ultra HD Setting Powder .jpg"
                             alt="Ultra HD Setting Powder ">
                     </figure>
-                    <p class="nombreProducto">Make up Forever | Ultra HD <br> Setting Powder </p>
+                    <p class="nombreProducto">Make up Forever | Ultra HD Setting Powder </p>
                     <p class="precioProducto">19,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -513,7 +518,7 @@
                             src="img/maquillaje/Forever Cushion Powder - Polvos sueltos de rostro .jpg"
                             alt="Forever Cushion Powder - Polvos sueltos de rostro ">
                     </figure>
-                    <p class="nombreProducto">Dior | Forever Cushion Powder <br> Polvos sueltos de rostro </p>
+                    <p class="nombreProducto">Dior | Forever Cushion Powder Polvos sueltos de rostro </p>
                     <p class="precioProducto">69,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -531,7 +536,7 @@
                         <img class="imgProducto15" src="img/maquillaje/Almost Powder Makeup Base natural en polvo.jpg"
                             alt="Almost Powder Makeup Base natural en polvo">
                     </figure>
-                    <p class="nombreProducto">Clinique | Almost Powder <br> Makeup Base natural en polvo</p>
+                    <p class="nombreProducto">Clinique | Almost Powder Makeup Base natural en polvo</p>
                     <p class="precioProducto">44,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -540,7 +545,7 @@
                         <img class="imgProducto14" src="img/maquillaje/GloWish - Soft Radiance Bronzing Powder.jpg"
                             alt="GloWish - Soft Radiance Bronzing Powder">
                     </figure>
-                    <p class="nombreProducto">Huda Beauty | GloWish <br> Soft Radiance Bronzing Powder</p>
+                    <p class="nombreProducto">Huda Beauty | GloWish Soft Radiance Bronzing Powder</p>
                     <p class="precioProducto">19,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -555,7 +560,7 @@
                         <img class="imgProducto16" src="img/maquillaje/KVD Beauty Tattoo Liner Eyeliner.jpg"
                             alt="KVD Beauty | Tattoo Liner Eyeliner">
                     </figure>
-                    <p class="nombreProducto">KVD Beauty | Tattoo Liner <br> Eyeliner</p>
+                    <p class="nombreProducto">KVD Beauty | Tattoo Liner Eyeliner</p>
                     <p class="precioProducto">23,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -564,7 +569,7 @@
                         <img class="imgProducto16" src="img/maquillaje/Better Than Sex Eyeliner - Eyeliner líquido.jpg"
                             alt="Better Than Sex Eyeliner - Eyeliner líquido">
                     </figure>
-                    <p class="nombreProducto">Too Faced | Better Than Love <br>Eyeliner líquido</p>
+                    <p class="nombreProducto">Too Faced | Better Than Love Eyeliner líquido</p>
                     <p class="precioProducto">29,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -573,7 +578,7 @@
                         <img class="imgProducto16" src="img/maquillaje/Perfect Strokes - Delineador líquido mate.jpg"
                             alt="Perfect Strokes - Delineador líquido mate">
                     </figure>
-                    <p class="nombreProducto">Rare Beauty | Perfect Strokes<br> Delineador líquido mate</p>
+                    <p class="nombreProducto">Rare Beauty | Perfect Strokes Delineador líquido mate</p>
                     <p class="precioProducto">26,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -582,7 +587,7 @@
                         <img class="imgProducto16" src="img/maquillaje/High Impact™ Gel Tech Eyeliner.jpg"
                             alt="High Impact™ Gel Tech Eyeliner">
                     </figure>
-                    <p class="nombreProducto">Clinique | High Impact Gel <br>Tech Eyeliner</p>
+                    <p class="nombreProducto">Clinique | High Impact Gel Tech Eyeliner</p>
                     <p class="precioProducto">28,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -592,7 +597,7 @@
                             src="img/maquillaje/Brocha - Pincel delineador profesional n.º 22.jpg"
                             alt="Brocha - Pincel delineador profesional n.º 22">
                     </figure>
-                    <p class="nombreProducto">Sephora | Brocha - Pincel <br> delineador profesional</p>
+                    <p class="nombreProducto">Sephora | Brocha - Pincel delineador profesional</p>
                     <p class="precioProducto">19,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -610,7 +615,7 @@
                         <img class="imgProducto16" src="img/maquillaje/Clean Line - Delineador de ojos líquido.jpg"
                             alt="Clean Line - Delineador de ojos líquido">
                     </figure>
-                    <p class="nombreProducto">Ilia | Clean Line - Delineador <br>de ojos líquido</p>
+                    <p class="nombreProducto">Ilia | Clean Line - Delineador de ojos líquido</p>
                     <p class="precioProducto">29,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>
@@ -619,7 +624,7 @@
                         <img class="imgProducto16" src="img/maquillaje/Mini Tattoo Pencil Liner - Eyeliner.jpg"
                             alt="Mini Tattoo Pencil Liner - Eyeliner">
                     </figure>
-                    <p class="nombreProducto">KVD Beauty | Mini Tattoo <br>Pencil Liner Eyeliner</p>
+                    <p class="nombreProducto">KVD Beauty | Mini Tattoo Pencil Liner Eyeliner</p>
                     <p class="precioProducto">14,99 €</p>
                     <p class="botonCompraProducto">Comprar</p>
                 </div>

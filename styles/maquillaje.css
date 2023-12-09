@@ -91,7 +91,7 @@
     box-shadow: 0 0 15px #e1dfdf;
 }
 /* cada 4 productos, el margen izquierdo es 0 */
-.producto:nth-child(4n+1) {
+.producto:nth-child(4n + 1) {
     margin-left: 0;
 }
 
@@ -108,14 +108,16 @@
 }
 
 .nombreProducto {
-    margin: 16px 0;
     line-height: 1.5;
     font-size: 21px;
     width: 100%;
-    height: 63px;
-    max-height: 63px;
+    height: 95px;
+    /* Con -webkit-box y -webkit-line-clamp limitamos el número de líneas a 3, -webkit-box es un contenedor que limita el número de líneas */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
     overflow: hidden;
-    text-overflow: clip;
+    text-overflow: ellipsis;
     white-space: normal;
 }
 
@@ -145,43 +147,34 @@
     color: #000;
 }
 
+/* Sección caja Probador */
+
 .cajaProbador {
-    width: 90%;
     height: 650px;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
     margin: auto;
-    margin-top: 100px;
-    clear: both;
+    position: relative;
 }
 
-.comparativaMaquillaje {
-    width: 40%;
-    height: 90%;
-    float: right;
-    margin-right: 3%;
-    margin-top: 30px;
-}
-
-.imgComparativa {
-    width: 100%;
-    height: 100%;
+.cajaProbador > div,
+.cajaProbador .comparativaMaquillaje {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50%;
+    float: left;
 }
 
 .tituloProbador {
-    width: 50%;
-    float: left;
     font-size: 70px;
     font-family: helvetica, arial, sans-serif;
     margin: 0;
-    margin-top: 120px;
     margin-bottom: 10px;
     line-height: 1;
 }
 
 .textoProbador {
-    width: 45%;
-    float: left;
     font-size: 18px;
     font-family: helvetica, arial, sans-serif;
     line-height: 1.5;
@@ -190,51 +183,60 @@
 }
 
 .botonExplorar {
-    width: fit-content;
     float: left;
     font-size: 22px;
-    font-family: helvetica, arial, sans-serif;
     font-weight: 600;
-}
-
-.botonExplorar:hover {
+    margin-top: 12.5px;
     cursor: pointer;
-    border-bottom: 3px solid black;
 }
 
 .imgBoton {
+    transition: all 0.2s ease-in-out;
     width: 50px;
     height: 50px;
     float: left;
-    margin-top: 8px;
     margin-left: 5px;
     cursor: pointer;
 }
+.imgBoton:hover {
+    transform: translateX(10px);
+}
 
+.comparativaMaquillaje {
+    height: 90%;
+}
+
+.comparativaMaquillaje img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* Sección de trucos */
 .contenedorTrucos {
     width: 100%;
     height: 700px;
     margin: auto;
-    margin-top: 100px;
-    clear: both;
+    padding: 40px;
 }
 
 .contenedorTrucos h2 {
     font-size: 60px;
-    font-family: helvetica, arial, sans-serif;
-    margin: 0;
-    margin-top: 40px;
-    margin-left: 40px;
     margin-bottom: 20px;
 }
 
-.contenedorTrucos div {
-    width: 21%;
+.trucos div {
+    width: 22.5%;
+    margin-left: 2.5%;
     height: 500px;
     float: left;
-    margin-left: 3.2%;
-    margin-top: 50px;
     cursor: pointer;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.trucos div:first-child {
+    margin-left: 0;
 }
 
 .contenedorTrucos p {
@@ -253,28 +255,16 @@
 
 .truco1 {
     background-image: url(../img/maquillaje/truco1.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .truco2 {
     background-image: url(../img/maquillaje/truco2.jpeg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .truco3 {
     background-image: url(../img/maquillaje/truco3.jpeg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .truco4 {
     background-image: url(../img/maquillaje/truco4.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }

@@ -19,7 +19,7 @@
     <div class="main">
         <section class="contenedor">
             <img class="imagen" src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-            <p class="nombre">Gel-Crema Limpiador <br> BYOMA</p>
+            <p class="nombre">Gel-Crema Limpiador  BYOMA</p>
             <p class="precio">12,99 €</p>
             <p class="comprar">Comprar</p>
         </section>

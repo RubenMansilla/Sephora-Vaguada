@@ -76,14 +76,14 @@
             <div class="producto">
                 <img class="imgProducto1" src="img/perfumes/viktor-rolf-spicebomb-infrared-eau-de-toilette.png"
                     alt="Viktor & Rolf Spicebomb Infrared Eau de Toilette - 50ml">
-                <p class="nombreProducto">Viktor & Rolf Spicebomb Infrared <br>Eau de Toilette - 50ml</p>
+                <p class="nombreProducto">Viktor & Rolf Spicebomb Infrared Eau de Toilette - 50ml</p>
                 <p class="precioProducto">75,45 €</p>
                 <p class="botonCompra">Comprar</p>
             </div>
             <div class="producto">
                 <img class="imgProducto2" src="img/perfumes/Perfect Marc Jacobs Eau de Parfum 100ml.png"
                     alt="Perfect Marc Jacobs Eau de Parfum 100ml">
-                <p class="nombreProducto">Perfect Marc Jacobs Eau <br> de Parfum 100ml</p>
+                <p class="nombreProducto">Perfect Marc Jacobs Eau  de Parfum 100ml</p>
                 <p class="precioProducto">92,95 €</p>
                 <p class="botonCompra">Comprar</p>
             </div>
@@ -97,14 +97,14 @@
             <div class="producto">
                 <img class="imgProducto3" src="img/perfumes/Calendario de adviento Herrera 12 días de belleza.png"
                     alt="Calendario de adviento Herrera: 12 días de belleza">
-                <p class="nombreProducto">Calendario de adviento Herrera<br> 12 días de belleza</p>
+                <p class="nombreProducto">Calendario de adviento Herrera 12 días de belleza</p>
                 <p class="precioProducto">99,50 €</p>
                 <p class="botonCompra">Comprar</p>
             </div>
             <div class="producto">
                 <img class="imgProducto4" src="img/perfumes/Yves Saint Laurent MYSLF Eau de Parfum 60ml.png"
                     alt="Yves Saint Laurent MYSLF Eau de Parfum 60ml">
-                <p class="nombreProducto">Yves Saint Laurent MYSLF <br>Eau de Parfum 60ml</p>
+                <p class="nombreProducto">Yves Saint Laurent MYSLF Eau de Parfum 60ml</p>
                 <p class="precioProducto">82,95 €</p>
                 <p class="botonCompra">Comprar</p>
             </div>
@@ -119,7 +119,7 @@
             <div class="producto">
                 <img class="imgProducto6" src="img/perfumes/Versace Eros for Men Eau de Toilette 100ml.png"
                     alt="Versace Eros for Men Eau de Toilette 100ml">
-                <p class="nombreProducto">Versace Eros for Men Eau <br>de Toilette 100ml</p>
+                <p class="nombreProducto">Versace Eros for Men Eau de Toilette 100ml</p>
                 <p class="precioProducto">96,45 €</p>
                 <p class="botonCompra">Comprar</p>
             </div>
@@ -129,8 +129,8 @@
             <h2 class="tituloAside">BLACK FRIDAY: 10% EXTRA</h2>
             <img class="imgAside" src="img/perfumes/venta-perfumes-black-friday_66941-92.png" alt="">
             <p class="textoAside">¡Aprovecha hasta un 50% de descuento en compras + 10% EXTRA en tus porductos
-                favoritos!<br><br>¡Elige un REGALO para ti o para alguién especial con compras superiores a
-                100€!<br><br>Oferta disponuble hasta el 06/01/2024</p>
+                favoritos!¡Elige un REGALO para ti o para alguién especial con compras superiores a
+                100€!Oferta disponuble hasta el 06/01/2024</p>
         </aside>
 
         <section class="tipoProductos">
