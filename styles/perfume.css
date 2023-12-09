@@ -1,197 +1,139 @@
-.video{
+/* Video en el hero */
+.video {
     width: 100%;
 }
 
-.titulo{
+/* Navegador de perfumes */
+.titulo {
     text-align: center;
     font-size: 35px;
-    font-weight: 300;
     margin-top: 50px;
-    font-family: work sans,sans-serif;
-    color: #333;
 }
 
-.subTitulo{
+.subTitulo {
+    font-weight: 400;
     text-align: center;
-    font-size: 15px;
+    font-size: 16px;
     margin-top: 20px;
-    margin-bottom: 60px;
-    font-family: work sans,sans-serif;
+    margin-bottom: 40px;
     color: #333;
 }
 
-.tipos{
+.tipos {
+    padding: 0 205px;
+    overflow: hidden;
+}
+.tipo {
+    display: block;
     float: left;
     width: 20%;
-    margin-left: 60px;
+    margin-left: 6.66%;
+}
+.tipo:first-child {
+    margin-left: 0;
 }
 
-.tipos a{
-    text-decoration: none;
-    list-style: none;
-}
-
-.tipos img{
-    width: 60%;
+.imagenTipo{
     border-radius: 20%;
-    margin-left: 58px;
+    overflow: hidden;
     opacity: 0.8;
     transition: all 0.2s ease-in-out;
 }
 
-.tipos img:hover{
+.imagenTipo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.imagenTipo:hover {
     opacity: 1;
     cursor: pointer;
 }
 
-.tipos p{
+.tipo p {
     margin-top: 20px;
     text-align: center;
     font-size: 20px;
     font-weight: 300;
-    font-family: work sans,sans-serif;
     color: #333;
-}   
+}
 
-.banner{
-    clear: both;
+/* Banner de como elegir un perfume */
+.banner {
+    padding: 3px 64px;
+    margin-top: 100px;
     width: 100%;
     height: 400px;
-    padding: 0;
-    margin-top: 350px;
-    background-color: rgb(224, 218, 218);
+    background-color: #232323;
 }
 
-.tituloBanner{
-    font-size: 35px;
-    font-weight: 300;
-    font-family: work sans,sans-serif;
-    color: #333;
-    width: 30%;
-    float: left;
-    padding: 0;
-    margin: 0;
-    margin-left: 150px;
-    margin-top: 30px;
-    text-align: center;
-}
-
-.textoBanner{
-    font-size: 20px;
-    width: 40%;
+.textoBanner {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 14px;
+    width: 55%;
     text-align: justify;
-    font-family: work sans,sans-serif;
-    color: #333;
-    line-height: 1.5;
+    color: #fff;
     float: left;
-    margin-left: 70px;
 }
 
-.imgBanner{
-    width: 700px;
+.tituloBanner {
+    font-size: 38px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.imgBanner {
+    overflow: hidden;
+    width: 40%;
     height: 100%;
     float: right;
 }
+.imgBanner img {
+    width: 100%;
+    object-fit: cover;
+}
 
-.tipoProductos{
+/* Sección de productos */
+
+.tipoProductos {
     clear: both;
     width: 100%;
-    height: 1200px;
-    margin:auto;
+    margin: auto;
     padding-top: 50px;
 }
 
-.tipoProductos h2{
-    margin: auto;
+.tipoProductos h2 {
     text-align: center;
     padding-bottom: 35px;
     font-size: 40px;
-    font-weight: 300;
-    font-family: work sans,sans-serif;
-    color: #333;
 }
 
-.producto{
-    float: left;
-    width: 20%;
-    height: 550px;
-    margin-left: 4%;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    border: 1px solid rgb(225, 223, 223);
-    box-shadow: 0 0 10px rgb(225, 223, 223);
-    cursor: pointer;
-}
-
-.producto img{
-    margin-top: 20px;
-}
-
-.imgProducto1{
-    width: 300; 
-    height: 300px;
-    margin-left: 95px;
-}
-
-.imgProducto2{
-    width: 300; 
-    height: 300px;
-    margin-left: 98px;
-}
-
-.imgProducto3{
-    width: 300; 
-    height: 300px;
-    margin-left: 70px;
-}
-
-.imgProducto4{
-    width: 300; 
-    height: 300px;
-    margin-left: 125px;
-}
-
-.imgProducto5{
-    width: 300; 
-    height: 300px;
-    margin-left: 102px;
-}
-
-.imgProducto6{
-    width: 300; 
-    height: 300px;
-    margin-left: 55px;
-}
-
-.imgProducto7{
-    width: 300; 
-    height: 300px;
-    margin-left: 65px;
-}
-
-.nombreProducto{
+.nombreProducto {
     text-align: center;
     line-height: 1.5;
     font-size: 21px;
 }
 
-.precioProducto{
+.precioProducto {
     text-align: center;
     font-size: 20px;
     font-weight: 600;
     line-height: 1.5;
 }
 
-.botonCompra{
+.botonCompra {
     width: 70%;
     margin-left: 40px;
     background-color: #000;
     border-width: 2px;
     border-style: solid;
     border-color: #000;
-    font-family: "Work Sans",sans-serif;
     font-size: 15px;
-    letter-spacing: .19px;
+    letter-spacing: 0.19px;
     color: #fff;
     line-height: 1.33;
     padding: 12.5px 12px;
@@ -202,110 +144,125 @@
     transition: all 0.2s ease-in-out;
 }
 
-.botonCompra:hover{
+.botonCompra:hover {
     background-color: #fff;
-    color: #000;;
+    color: #000;
 }
 
-aside{
-    clear: both;
-    width: 100%;
-    height: 400px;
-    background-color: rgb(224, 218, 218);
-    margin-top: 180px;
-    margin-bottom: 50px;
-}
-
-.tituloAside{
-    font-size: 35px;
-    font-weight: 300;
-    font-family: work sans,sans-serif;
-    color: #333;
-    width: 40%;
-    float: left;
-    padding: 0;
-    margin: 0;
-    margin-left: 60px;
-    margin-top: 30px;
-    text-align: center;
-}
-
-.textoAside{
-    font-size: 20px;
-    width: 40%;
-    text-align: justify;
-    font-family: work sans,sans-serif;
-    color: #333;
-    line-height: 1.5;
-    float: left;
-    margin-left: 70px;
-    margin-top: 55px;
-}
-
-.imgAside{
-    width: 700px;
-    height: 100%;
+/* Banner de promoción de perfumes */
+.asideBanner .textoBanner {
     float: right;
 }
+.asideBanner .imgBanner {
+    float: left;
+}
 
-.cajaMarca{
+/* Sección de marcas */
+/* TODO: Encontrar un estilo apropiado para las imágenes, recomendación: usar object-fit: cover  o contain*/
+.cajaMarca {
     clear: both;
     width: 100%;
-    height: 580px;
     padding: 0;
-    margin-top: 150px;
 }
 
-.tituloMarca{
+.tituloMarca {
     text-align: center;
-    font-size: 30px;
-    font-weight: 300;
-    font-family: work sans,sans-serif;
-    color: #333;
+    font-size: 40px;
 }
 
-.marca{
+.marca {
     width: 30%;
     height: 55%;
     float: left;
     margin-top: 20px;
     margin-left: 38px;
-    
 }
 
-.marca img{
+.imgMarca img {
     width: 100%;
     height: 100%;
 }
 
-.textoMarca{
+.textoMarca {
     margin-top: 15px;
-    width: 30%;
-    height: 25%;
-    float: left;
-    margin-left: 38px;
 }
 
-.textoMarca h3{
+.textoMarca h3 {
     font-size: 20px;
-    font-weight: 300;
-    font-family: work sans,sans-serif;
     color: #333;
     border-bottom: 1px solid #333;
     line-height: 1.5;
 }
 
-.textoMarca p{
+.textoMarca p {
     font-size: 16px;
-    font-weight: 300;
-    font-family: work sans,sans-serif;
     color: #333;
     line-height: 1.5;
     text-align: justify;
     width: 80%;
-}   
+}
 
-.cajaCofresRegalo{
+/* Sección de kits de muestra */
+.cajaKitDeMuestra {
+    width: 100%;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    padding: 30px 210px;
+}
+
+.tituloKitDeMuestra {
+    text-align: center;
+    font-size: 35px;
+}
+
+.kitDeMuestra {
+    width: 45%;
+    height: 60%;
+    float: left;
+    background-color: #eeecec;
+}
+.kitDeMuestra:nth-child(2) {
+    float: right;
+}
+.kitDeMuestra img {
+    width: 100%;
+    height: 100%;
+}
+
+.textoKitMuestra {
+    clear: both;
+    display: block;
+    padding: 32px 0;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.botonKit {
+    margin: 10px auto;
+    background-color: #000;
+    border: 2px solid #000;
+    font-size: 15px;
+    width: max-content;
+    letter-spacing: 0.19px;
+    color: #fff;
+    line-height: 1.33;
+    padding: 12px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    text-align: center;
+    box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
+}
+
+.botonKit:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+/* Sección de cofres de regalo */
+
+.cajaCofresRegalo {
     clear: both;
     width: 100%;
     height: 700px;
@@ -315,15 +272,15 @@ aside{
     margin-bottom: 100px;
 }
 
-.cajaCofresRegalo h2{
+.cajaCofresRegalo h2 {
     text-align: center;
     font-size: 30px;
     font-weight: 300;
-    font-family: work sans,sans-serif;
+    font-family: work sans, sans-serif;
     color: #333;
 }
 
-.cofresRegalo{
+.cofresRegalo {
     width: 45%;
     height: 550px;
     float: left;
@@ -331,16 +288,16 @@ aside{
     margin-left: 50px;
 }
 
-.botonCompraCofre{
+.botonCompraCofre {
     width: 30%;
     margin-left: 40px;
     background-color: #000;
     border-width: 2px;
     border-style: solid;
     border-color: #000;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Work Sans", sans-serif;
     font-size: 15px;
-    letter-spacing: .19px;
+    letter-spacing: 0.19px;
     color: #fff;
     line-height: 1.33;
     padding: 12.5px 12px;
@@ -352,77 +309,7 @@ aside{
     transition: all 0.2s ease-in-out;
 }
 
-.botonCompraCofre:hover{
+.botonCompraCofre:hover {
     background-color: #fff;
-    color: #000;;
-}
-
-.cajaKitDeMuestra{
-    clear: both;
-    width: 100%;
-    height: 950px;
-    padding: 0;
-    margin-top: 150px;
-    margin-bottom: 100px;
-}
-
-.tituloKitDeMuestra{
-    text-align: center;
-    font-size: 30px;
-    font-weight: 300;
-    font-family: work sans,sans-serif;
-    color: #333;
-}
-
-.kitDeMuestra{
-    width: 38%;
-    height: 60%;
-    float: left;
-    margin-left: 125px;
-    margin-top: 30PX;
-    background-color: rgb(238, 236, 236);
-}
-
-.kitDeMuestra img{
-    width: 100%;
-    height: 100%;
-}
-
-.textoKitMuestra{
-    clear: both;
-    width: 50%;
-    position: relative;
-    top: 6%;
-    left: 25%;
-    font-size: 20px;
-    text-align: center;
-    line-height: 1.5;
-    font-family: Gotham,sans-serif;
-}
-
-.botonKit{
-    width: 10%;
-    margin-left: 40px;
-    background-color: #000;
-    border-width: 2px;
-    border-style: solid;
-    border-color: #000;
-    font-family: "Work Sans",sans-serif;
-    font-size: 15px;
-    letter-spacing: .19px;
-    color: #fff;
-    line-height: 1.33;
-    padding: 12.5px 12px;
-    border-radius: 6px;
-    cursor: pointer;
-    text-align: center;
-    box-sizing: border-box;
-    margin-left: 686px;
-    margin-top: 100px;
-    transition: all 0.2s ease-in-out;
-}
-
-.botonKit:hover{
-    background-color: #fff;
-    color: #000;;
+    color: #000;
 }

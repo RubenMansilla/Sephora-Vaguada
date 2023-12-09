@@ -1,6 +1,5 @@
-Elegir funete de letra
-Cambiar estilos en clases por herencias
-Cambiar nombre imgs
 Arreglar nombres productos (añadir nombre marca)
-Arreglar margenes de las imagenes
-imagenes dentro de <figure>
+
+Archivo perfumes: linea 161 tiene un TODO
+
+Agregar un espaciado apropiado entre secciones, con margin top de ser posible

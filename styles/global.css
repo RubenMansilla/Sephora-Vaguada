@@ -15,6 +15,11 @@ body {
     color: #000;
 }
 
+a {
+    text-decoration: none;
+    color: #000;
+}
+
 .cabecera {
     padding: 1rem;
     background-color: black;
@@ -102,4 +107,85 @@ nav ul li a:hover {
 footer {
     background-color: black;
     min-height: 100px;
+}
+
+/* Componente de productos */
+
+.productos {
+    display: block;
+    background-color: #fff;
+    width: 100%;
+    height: 1250px;
+    position: relative;
+    top: 10px;
+}
+
+.producto {
+    text-align: center;
+    padding: 16px;
+    width: 20%;
+    height: 550px;
+    float: left;
+    margin-left: 6.66%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 1px solid #e1dfdf;
+    box-shadow: 0 0 15px #e1dfdf;
+}
+/* cada 4 productos, el margen izquierdo es 0 */
+.producto:nth-child(4n + 1) {
+    margin-left: 0;
+}
+
+/* Sección de máscara de pestañas en productos */
+.imagenProducto {
+    width: 100%;
+    height: 300px;
+    margin: 10px auto;
+}
+.imagenProducto img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.nombreProducto {
+    line-height: 1.5;
+    font-size: 21px;
+    width: 100%;
+    height: 95px;
+    /* Con -webkit-box y -webkit-line-clamp limitamos el número de líneas a 3, -webkit-box es un contenedor que limita el número de líneas */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+}
+
+.precioProducto {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.botonCompraProducto {
+    margin: 16px auto 0;
+    width: 70%;
+    background-color: #000;
+    border: 2px solid #000;
+    letter-spacing: 0.19px;
+    color: #fff;
+    padding: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
+}
+
+.botonCompraProducto:hover {
+    background-color: #fff;
+    color: #000;
 }
