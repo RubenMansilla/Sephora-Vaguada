@@ -47,7 +47,7 @@
                     </figure>
                     <p class="nombreProducto">High Impact High-Fi <br> Full Volume</p>
                     <p class="precioProducto">36,00 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -56,7 +56,7 @@
                     </figure>
                     <p class="nombreProducto">High Impact Lash Amplifying Serum</p>
                     <p class="precioProducto">53,00 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -65,7 +65,7 @@
                     </figure>
                     <p class="nombreProducto">Brow Harmony Flexible Lifting Gel</p>
                     <p class="precioProducto">21,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -74,7 +74,7 @@
                     </figure>
                     <p class="nombreProducto">Defenitive | Mascara De Jorge De La Garza</p>
                     <p class="precioProducto">20,50 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -83,7 +83,7 @@
                     </figure>
                     <p class="nombreProducto">Dior | Cofre Diorshow Esencial Ojos</p>
                     <p class="precioProducto">44,60 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -92,7 +92,7 @@
                     </figure>
                     <p class="nombreProducto">Evoeye | Serum Crecimiento De Pestañas</p>
                     <p class="precioProducto">69,95 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -101,7 +101,7 @@
                     </figure>
                     <p class="nombreProducto">Mario | Master Blade Lapiz de cejas</p>
                     <p class="precioProducto">26,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -110,7 +110,7 @@
                     </figure>
                     <p class="nombreProducto">Mini Brow Genius Sérum para cejas MINI</p>
                     <p class="precioProducto">40,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -125,7 +125,7 @@
                     </figure>
                     <p class="nombreProducto">Nudestix | Hydra-Peptide Lip Butter </p>
                     <p class="precioProducto">17,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -134,7 +134,7 @@
                     </figure>
                     <p class="nombreProducto">Nudestix | Nudies All Over Face Color Matte </p>
                     <p class="precioProducto">25,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -143,7 +143,7 @@
                     </figure>
                     <p class="nombreProducto">Honey Infused Golden Shimmer Glow Lip Oil </p>
                     <p class="precioProducto">27,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -153,7 +153,7 @@
                     </figure>
                     <p class="nombreProducto">Double Wear 24H Stay-in-Place - Delineador de labios</p>
                     <p class="precioProducto">30,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -163,7 +163,7 @@
                     </figure>
                     <p class="nombreProducto">Gloss Bomb Cream - Brillo de labios lacado de color intenso</p>
                     <p class="precioProducto">22,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -173,7 +173,7 @@
                     </figure>
                     <p class="nombreProducto">Joli Rouge - Barra de labios acabado mate</p>
                     <p class="precioProducto">24,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -183,7 +183,7 @@
                     </figure>
                     <p class="nombreProducto">Soft Matte - Barra de labios acabado mate suave</p>
                     <p class="precioProducto">13,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -192,7 +192,7 @@
                     </figure>
                     <p class="nombreProducto">Mario | Ultra Suede - Barra de labios mate</p>
                     <p class="precioProducto">28,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -222,7 +222,7 @@
                     </figure>
                     <p class="nombreProducto">Dior Forever Skin Correct de alta cobertura</p>
                     <p class="precioProducto">41,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -231,7 +231,7 @@
                     </figure>
                     <p class="nombreProducto">Glowish Multidew - Crema Hidratante Con Color</p>
                     <p class="precioProducto">40,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -241,7 +241,7 @@
                     </figure>
                     <p class="nombreProducto">Giogio Armani | Luminous Silk - Base con acabado luminoso</p>
                     <p class="precioProducto">60,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -251,7 +251,7 @@
                     </figure>
                     <p class="nombreProducto">Rare Beauty | Liquid Touch Base de maquillaje ligera</p>
                     <p class="precioProducto">34,49 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -260,7 +260,7 @@
                     </figure>
                     <p class="nombreProducto">Clarins | Milky Boost - Leche desmaquillante</p>
                     <p class="precioProducto">41,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -270,7 +270,7 @@
                     </figure>
                     <p class="nombreProducto">Make up Forever | Matte Velvet Skin - Base de maquillaje mate</p>
                     <p class="precioProducto">41,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -280,7 +280,7 @@
                     </figure>
                     <p class="nombreProducto">Fenty Beauty | Eaze drop Base de Efecto Difuminado</p>
                     <p class="precioProducto">36,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -289,7 +289,7 @@
                     </figure>
                     <p class="nombreProducto">Natasha Denona | Face Glow Foundation - Base de maquillaje</p>
                     <p class="precioProducto">44,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -305,7 +305,7 @@
                     </figure>
                     <p class="nombreProducto">Rare Beauty | Positive Light Corrector líquido ultraligero</p>
                     <p class="precioProducto">29,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -315,7 +315,7 @@
                     </figure>
                     <p class="nombreProducto">Armani | Corrector Power Fabric Corrector de larga duración</p>
                     <p class="precioProducto">41,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -324,7 +324,7 @@
                     </figure>
                     <p class="nombreProducto">Clarins | Instant Concealer - Corrector antiojeras</p>
                     <p class="precioProducto">34,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -333,7 +333,7 @@
                     </figure>
                     <p class="nombreProducto">Make Up Forever | HD Skin Concealer - Corrector imperceptible</p>
                     <p class="precioProducto">29,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -343,7 +343,7 @@
                     </figure>
                     <p class="nombreProducto">Urban Decay | Stay Naked Quickie 24Hr - Corretor Muti Usos</p>
                     <p class="precioProducto">34,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -352,7 +352,7 @@
                     </figure>
                     <p class="nombreProducto">Too Faced | Born This Way Super Coverage Concealer</p>
                     <p class="precioProducto">16,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -361,7 +361,7 @@
                     </figure>
                     <p class="nombreProducto">Givenchy | Prisme Libre Skin-Caring Corrector</p>
                     <p class="precioProducto">37,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -371,7 +371,7 @@
                     </figure>
                     <p class="nombreProducto">Dior | Forever Skin Correct de alta cobertura </p>
                     <p class="precioProducto">41,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -404,7 +404,7 @@
                     </figure>
                     <p class="nombreProducto">Ilia | Color Haze - Crema Multi-uso Color Haze</p>
                     <p class="precioProducto">34,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -414,7 +414,7 @@
                     </figure>
                     <p class="nombreProducto">Chachatint | Colorete líquido benefit para mejillas y labios</p>
                     <p class="precioProducto">22,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -423,7 +423,7 @@
                     </figure>
                     <p class="nombreProducto">Rare Beauty | Stay Vulnerable - Colorete "segunda piel"</p>
                     <p class="precioProducto">27,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -432,7 +432,7 @@
                     </figure>
                     <p class="nombreProducto">Sephora | Brocha prosefional para colorete Pro nº 93</p>
                     <p class="precioProducto">24,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -441,7 +441,7 @@
                     </figure>
                     <p class="nombreProducto">Fenty Beauty | Match Stix Color Adaptive Cheek + Lip Stick </p>
                     <p class="precioProducto">29,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -450,7 +450,7 @@
                     </figure>
                     <p class="nombreProducto">Mario | Soft Pop Plumping Blush Veil</p>
                     <p class="precioProducto">33,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -459,7 +459,7 @@
                     </figure>
                     <p class="nombreProducto">Nars | Afterglow Liquid Blush Colorete líquido</p>
                     <p class="precioProducto">39,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -468,7 +468,7 @@
                     </figure>
                     <p class="nombreProducto">Summer Fridays | Blush Balm Stick - Crema en barra multiusos</p>
                     <p class="precioProducto">32,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -483,7 +483,7 @@
                     </figure>
                     <p class="nombreProducto">Clarins | Ever Matte - Polvos Sueltos</p>
                     <p class="precioProducto">49,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -492,7 +492,7 @@
                     </figure>
                     <p class="nombreProducto">PAT McGRATH LABS | Skin Fetish Sublime Perfection</p>
                     <p class="precioProducto">48,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -501,7 +501,7 @@
                     </figure>
                     <p class="nombreProducto">Huda Beauty | Polvo Iluminador - GloWish Luminous Powder</p>
                     <p class="precioProducto">39,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -510,7 +510,7 @@
                     </figure>
                     <p class="nombreProducto">Make up Forever | Ultra HD Setting Powder </p>
                     <p class="precioProducto">19,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -520,7 +520,7 @@
                     </figure>
                     <p class="nombreProducto">Dior | Forever Cushion Powder Polvos sueltos de rostro </p>
                     <p class="precioProducto">69,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -529,7 +529,7 @@
                     </figure>
                     <p class="nombreProducto">Armani | Luminous Silk Glow Fusion Powder</p>
                     <p class="precioProducto">55,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -538,7 +538,7 @@
                     </figure>
                     <p class="nombreProducto">Clinique | Almost Powder Makeup Base natural en polvo</p>
                     <p class="precioProducto">44,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -547,7 +547,7 @@
                     </figure>
                     <p class="nombreProducto">Huda Beauty | GloWish Soft Radiance Bronzing Powder</p>
                     <p class="precioProducto">19,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -562,7 +562,7 @@
                     </figure>
                     <p class="nombreProducto">KVD Beauty | Tattoo Liner Eyeliner</p>
                     <p class="precioProducto">23,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -571,7 +571,7 @@
                     </figure>
                     <p class="nombreProducto">Too Faced | Better Than Love Eyeliner líquido</p>
                     <p class="precioProducto">29,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -580,7 +580,7 @@
                     </figure>
                     <p class="nombreProducto">Rare Beauty | Perfect Strokes Delineador líquido mate</p>
                     <p class="precioProducto">26,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -589,7 +589,7 @@
                     </figure>
                     <p class="nombreProducto">Clinique | High Impact Gel Tech Eyeliner</p>
                     <p class="precioProducto">28,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -599,7 +599,7 @@
                     </figure>
                     <p class="nombreProducto">Sephora | Brocha - Pincel delineador profesional</p>
                     <p class="precioProducto">19,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -608,7 +608,7 @@
                     </figure>
                     <p class="nombreProducto">Rare Beauty | Perfect Strokes Gel Eyeliner</p>
                     <p class="precioProducto">20,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -617,7 +617,7 @@
                     </figure>
                     <p class="nombreProducto">Ilia | Clean Line - Delineador de ojos líquido</p>
                     <p class="precioProducto">29,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -626,7 +626,7 @@
                     </figure>
                     <p class="nombreProducto">KVD Beauty | Mini Tattoo Pencil Liner Eyeliner</p>
                     <p class="precioProducto">14,99 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>

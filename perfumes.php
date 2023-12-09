@@ -87,7 +87,7 @@
                     </figure>
                     <p class="nombreProducto">Giorgio Armani My Way Eau de Parfum - 30ml</p>
                     <p class="precioProducto">52,95 €</p>
-                    <p class="botonCompraProducto">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -96,7 +96,7 @@
                     </figure>
                     <p class="nombreProducto">Viktor & Rolf Spicebomb Infrared Eau de Toilette - 50ml</p>
                     <p class="precioProducto">75,45 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -105,7 +105,7 @@
                     </figure>
                     <p class="nombreProducto">Perfect Marc Jacobs Eau de Parfum 100ml</p>
                     <p class="precioProducto">92,95 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -115,7 +115,7 @@
                     </figure>
                     <p class="nombreProducto">Good Girl 100ml Eau de Parfum Refillable Edition</p>
                     <p class="precioProducto">70,00 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -125,7 +125,7 @@
                     </figure>
                     <p class="nombreProducto">Calendario de adviento Herrera 12 días de belleza</p>
                     <p class="precioProducto">99,50 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -134,7 +134,7 @@
                     </figure>
                     <p class="nombreProducto">Yves Saint Laurent MYSLF Eau de Parfum 60ml</p>
                     <p class="precioProducto">82,95 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -144,7 +144,7 @@
                     </figure>
                     <p class="nombreProducto">MUGLER Alien Eau de Parfum Natural Spray - 90ml</p>
                     <p class="precioProducto">116,45 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -153,7 +153,7 @@
                     </figure>
                     <p class="nombreProducto">Versace Eros for Men Eau de Toilette 100ml</p>
                     <p class="precioProducto">96,45 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -180,7 +180,7 @@
                     </figure>
                     <p class="nombreProducto">Eau de Rochas L'essentiel - Eau de Parfum</p>
                     <p class="precioProducto">69,99 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -189,7 +189,7 @@
                     </figure>
                     <p class="nombreProducto">Burberry Goddess Eau de Parfum for Women 100ml</p>
                     <p class="precioProducto">113,45 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -198,7 +198,7 @@
                     </figure>
                     <p class="nombreProducto">Ode To Dullness - Eau de Parfum</p>
                     <p class="precioProducto">125,99 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -208,7 +208,7 @@
                     </figure>
                     <p class="nombreProducto">Yves Saint Laurent Black Opium Eau de Parfum 30ml</p>
                     <p class="precioProducto">52,95 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -217,7 +217,7 @@
                     </figure>
                     <p class="nombreProducto">Alien Goddess Supra Florale - Eau de Parfum</p>
                     <p class="precioProducto">104,99 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -226,7 +226,7 @@
                     </figure>
                     <p class="nombreProducto">Bergamot Bloom 100ml Eau de Toilette</p>
                     <p class="precioProducto">125,00 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -235,7 +235,7 @@
                     </figure>
                     <p class="nombreProducto">Yves Saint Laurent Libre Eau de Parfum 90ml</p>
                     <p class="precioProducto">101,95 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -244,7 +244,7 @@
                     </figure>
                     <p class="nombreProducto">More More Pink - Eau de Toilette</p>
                     <p class="precioProducto">89,99 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -290,7 +290,7 @@
                     </figure>
                     <p class="nombreProducto">BOSS Bottled Elixir - Fragancia intensa</p>
                     <p class="precioProducto">109,99 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -300,7 +300,7 @@
                     </figure>
                     <p class="nombreProducto">Bad Boy 150ml Eau de Toilette Refillable Edition</p>
                     <p class="precioProducto">137,50 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -309,7 +309,7 @@
                     </figure>
                     <p class="nombreProducto">Paco Rabanne Invictus Eau de Toilette 200ml</p>
                     <p class="precioProducto">105,95 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -319,7 +319,7 @@
                     </figure>
                     <p class="nombreProducto">Jean Paul Gaultier Le Male Agua de Colonia 125ml</p>
                     <p class="precioProducto">77,45 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -329,7 +329,7 @@
                     </figure>
                     <p class="nombreProducto">Valentino Born in Roma Uomo Eau de Toilette for Him 100ml</p>
                     <p class="precioProducto">73,45 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -338,7 +338,7 @@
                     </figure>
                     <p class="nombreProducto">Prada Luna Rossa Carbon Eau de Toilette - 100ml</p>
                     <p class="precioProducto">78,95 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -348,7 +348,7 @@
                     </figure>
                     <p class="nombreProducto">Armani Acqua Di Gio Homme Eau de Toilette - 100ml</p>
                     <p class="precioProducto">72,45 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -357,7 +357,7 @@
                     </figure>
                     <p class="nombreProducto">Burberry Hero Eau de Parfum for Men 50ml</p>
                     <p class="precioProducto">67,95 €</p>
-                    <p class="botonCompra">Comprar</p>
+                    <button class="botonCompra">Comprar</button>
                 </div>
             </div>
         </section>
@@ -375,7 +375,7 @@
                 Agrega
                 hasta cuatro muestras de tu elección al configurador de kits, pruébalas en la comodidad de tu hogar.
             </p>
-            <p class="botonKit">ELIGE AHORA</p>
+            <button class="botonKit">ELIGE AHORA</button>
         </div>
 
         <section class="contenedor cajaCofresRegalo">
@@ -388,7 +388,7 @@
                 </figure>
                 <p class="nombreProducto">Marc Jacobs Christmas 2023 Daisy Eau de Toilette Spray 50ml Gift Set</p>
                 <p class="precioProducto">63,95 €</p>
-                <p class="botonCompraCofre">Comprar</p>
+                <button class="botonCompraCofre">Comprar</button>
             </div>
             <div class="cofresRegalo">
                 <figure class="imagenProducto">
@@ -398,7 +398,7 @@
                 </figure>
                 <p class="nombreProducto">Bad Boy 100 ml Eau de Toilette, Gel de Ducha 100 ml y Megavaporizador</p>
                 <p class="precioProducto">117,00 €</p>
-                <p class="botonCompraCofre">Comprar</p>
+                <button class="botonCompraCofre">Comprar</button>
             </div>
         </section>
     </div>

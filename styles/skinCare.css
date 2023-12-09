@@ -1,7 +1,11 @@
-img{
+/* En el archivo global.css existe unos estilos para cada elemento de producto, si deseas sobre escribirlos para cambiar algo a tu gusto, puedes hacerlo en este archivo. */
+/* Las clases son .producto, .imagenProducto (que es una etiqueta de html <figure> que contiene una <img>), .nombreProducto, .precioProducto y .comprarProducto */
+/* Te recomiendo ver el archivo maquillaje.php y maquillaje.css para que veas como se utiliza cada clase. */
+
+/* img {
     height: 300px;
 }
-.comprar{
+.comprar {
     width: 70%;
     position: relative;
     left: 15%;
@@ -9,9 +13,9 @@ img{
     border-width: 2px;
     border-style: solid;
     border-color: #000;
-    font-family: "Work Sans",sans-serif;
+    font-family: "Work Sans", sans-serif;
     font-size: 15px;
-    letter-spacing: .19px;
+    letter-spacing: 0.19px;
     color: #fff;
     line-height: 1.33;
     padding: 12.5px 12px;
@@ -21,19 +25,19 @@ img{
     box-sizing: border-box;
     transition: all 0.2s ease-in-out;
 }
-.precio{
-text-align: center;
-font-size: 20px;
-font-weight: 600;
-line-height: 1.5;
+.precio {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
 }
-.nombre{
+.nombre {
     text-align: center;
     line-height: 1.5;
     font-size: 21px;
 }
-.imagen{
-width: 300; 
-height: 300px;
-margin: auto;
-}
+.imagen {
+    width: 300;
+    height: 300px;
+    margin: auto;
+} */

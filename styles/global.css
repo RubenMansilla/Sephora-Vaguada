@@ -139,7 +139,6 @@ footer {
     margin-left: 0;
 }
 
-/* Sección de máscara de pestañas en productos */
 .imagenProducto {
     width: 100%;
     height: 300px;
@@ -171,7 +170,7 @@ footer {
     line-height: 1.5;
 }
 
-.botonCompraProducto {
+.botonCompra {
     margin: 16px auto 0;
     width: 70%;
     background-color: #000;
@@ -185,7 +184,7 @@ footer {
     transition: all 0.2s ease-in-out;
 }
 
-.botonCompraProducto:hover {
+.botonCompra:hover {
     background-color: #fff;
     color: #000;
 }
