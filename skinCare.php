@@ -18,8 +18,7 @@
 
     <div class="main">
         <section class="contenedor">
-        <h1 class="titulo">Limpiador</h1>
-            <h6 class="subTitulo">miaumiau</h6>
+        <h1 class="titulo">Limpiadores</h1>
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
@@ -31,23 +30,147 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (1).jpeg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (21).jpg" alt="limpiador1">
                     </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
+                    <p class="nombreProducto">Limpiador escualano THE ORDINARY</p>
+                    <p class="precioProducto">10,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (20).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Total Cleans'r Limpiador   FENTY SKIN</p>
                     <p class="precioProducto">12,99 €</p>
                     <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (2).jpeg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (19).jpeg" alt="limpiador1">
                     </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
+                    <p class="nombreProducto">No. 9 Jelly Cleanser DRUNK ELEPHANT</p>
+                    <p class="precioProducto">34,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (18).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Water Bank Blue Hyaluronic</p>
+                    <p class="precioProducto">24,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (17).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Limpiador para poros THE INKEY LIST</p>
+                    <p class="precioProducto">13,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (16).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">The POREfessional Good Cleanup</p>
                     <p class="precioProducto">12,99 €</p>
                     <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (3).jpeg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (15).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Aqua bomb jelly cleanser BELIF</p>
+                    <p class="precioProducto">25,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                    
+                </div>
+        </section>
+        <section class="contenedor">
+        <h1 class="titulo">Tónico</h1>
+            <h6 class="subTitulo">miaumiau</h6>
+            <div class="productos">
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (14).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Bruma equilibrante  BYOMA</p>
+                    <p class="precioProducto">12,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (13).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Loción Tónica Purificante  CLARINS</p>
+                    <p class="precioProducto">34,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (12).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">GLOW TONER Charlotte Tilbury</p>
+                    <p class="precioProducto">49,00 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (11).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Water Bank Blue Hyaluronic</p>
+                    <p class="precioProducto">24,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (10).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Glow Tonic iluminador PIXI</p>
+                    <p class="precioProducto">26,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (9).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Fat Water tonificante FENTY SKIN</p>
+                    <p class="precioProducto">12,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (8).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Spray facial aloe vera  MARIO BADESCU</p>
+                    <p class="precioProducto">10,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (7).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Agua de Belleza CAUDALIE</p>
+                    <p class="precioProducto">13,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                    
+                </div>
+        </section>
+        <section class="contenedor">
+        <h1 class="titulo">Contorno de ojos</h1>
+            <h6 class="subTitulo">miaumiau</h6>
+            <div class="productos">
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (6).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Gel-Crema Limpiador  BYOMA</p>
+                    <p class="precioProducto">12,99 €</p>
+                    <button class="botonCompra">Comprar</button>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img src="./img/skincare/skincare (5).jpg" alt="limpiador1">
                     </figure>
                     <p class="nombreProducto">Gel-Crema  BYOMA</p>
                     <p class="precioProducto">12,99 €</p>
@@ -63,7 +186,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (5).jpg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (3).jpg" alt="limpiador1">
                     </figure>
                     <p class="nombreProducto">Gel-Crema  BYOMA</p>
                     <p class="precioProducto">12,99 €</p>
@@ -71,7 +194,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (6).jpeg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (2).jpeg" alt="limpiador1">
                     </figure>
                     <p class="nombreProducto">Gel-Crema  BYOMA</p>
                     <p class="precioProducto">12,99 €</p>
@@ -79,131 +202,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                    
-                </div>
-        </section>
-        <section class="contenedor">
-        <h1 class="titulo">Tónico</h1>
-            <h6 class="subTitulo">miaumiau</h6>
-            <div class="productos">
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema Limpiador  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                    
-                </div>
-        </section>
-        <section class="contenedor">
-        <h1 class="titulo">Contorno de ojos</h1>
-            <h6 class="subTitulo">miaumiau</h6>
-            <div class="productos">
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema Limpiador  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
-                    </figure>
-                    <p class="nombreProducto">Gel-Crema  BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
-                </div>
-                <div class="producto">
-                    <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (1).jpeg" alt="limpiador1">
                     </figure>
                     <p class="nombreProducto">Gel-Crema  BYOMA</p>
                     <p class="precioProducto">12,99 €</p>
