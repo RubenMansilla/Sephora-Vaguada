@@ -40,14 +40,14 @@ a {
     clip-rule: evenodd;
 }
 
-nav {
+.navegacion {
     position: sticky;
     top: 0;
     height: 50px;
     z-index: 100;
 }
 
-nav ul {
+.navegacion ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -55,14 +55,14 @@ nav ul {
     width: 100%;
 }
 
-nav ul li {
+.navegacion li {
     margin: 0 auto;
     float: left;
     width: 16.6669%;
     background-color: white;
 }
 
-nav ul li a {
+.navegacion li a {
     transition: all 0.3s ease-in-out;
     height: 50px;
     display: block;
@@ -75,7 +75,7 @@ nav ul li a {
     border-bottom: 1px solid black;
 }
 
-nav ul li a:hover {
+.navegacion li a:hover {
     background-color: #ededed;
     border-bottom: 3px solid black;
 }

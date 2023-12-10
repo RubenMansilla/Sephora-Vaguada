@@ -1,0 +1,91 @@
+* {
+    transition: all .3s ease-in-out;
+}
+.navegacion li {
+    background-color: #000;
+    border-bottom: 1px solid #000;
+}
+.navegacion li a {
+    color: #fff;
+}
+
+.navegacion li a:hover {
+    background-color: #000;
+}
+.navegacion li::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 3px;
+    background: #fff;
+    transition: width .3s;
+}
+.navegacion li:hover::after {
+    width: 100%;
+}
+
+.main {
+    max-width: 100%;
+}
+.section {
+    position: relative;
+    background-color: #000;
+    color:#fff;
+    min-height: 100vh;
+    height: 100%;
+}
+.section:nth-child(even) {
+    background-color: #fff;
+    color:#000;
+}
+.contenido {
+    position: relative;
+    top: 50vh;
+    transform: translateY(-50%);
+    max-width: 1040px;
+    margin: auto;
+    padding: 50px 0 50px 0;
+}
+.contenido h1 {
+    font-family: Cochin, Georgia, serif;
+    font-size: 100px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    max-width: min-content;
+    letter-spacing: 2px;
+}
+.contenido h1 span {
+    font-family: 'Poppins', sans-serif;
+    display: block;
+}
+.contenido p {
+    text-wrap: pretty;
+    font-size: 48px;
+    line-height: 1.5;
+}
+.contenido p > span {
+    font-weight: bold;
+    line-height: 1.5;
+}
+.contenido:first-child p > span {
+    text-wrap: nowrap;
+}
+.contenido h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.contenidoMapa {
+    overflow: hidden;
+}
+.contenidoMapa > div {
+    float: left;
+    width: 55%;
+    padding: 0 10px 0 0;
+}
+.contenidoMapa > div:nth-child(2) {
+    width: 45%;
+    float: right;
+    text-align: right;
+    padding: 0 0 0 10px;
+}
