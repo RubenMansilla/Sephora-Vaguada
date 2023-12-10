@@ -1,0 +1,56 @@
+* {
+    transition: all 0.3s ease-in-out;
+}
+
+.contenedor {
+    margin-top: 75px;
+}
+.contenedor:first-child {
+    margin-top: 0;
+}
+
+.slider {
+    min-height: 100vh;
+}
+
+.titulo {
+    font-size: 32px;
+}
+
+.titulo span {
+    font-weight: 600;
+    padding-left: 4px;
+}
+.titulo:hover span {
+    color: #ec6439;
+}
+
+.botonCompra {
+    display: block;
+}
+
+.producto:last-child {
+    position: relative;
+    opacity: 0.75;
+}
+.producto:last-child:hover {
+    opacity: 1;
+}
+.producto:last-child:hover .imagenProducto, .producto:last-child:hover .nombreProducto, .producto:last-child:hover .precioProducto {
+    opacity: 0;
+}
+.producto:last-child:hover .botonCompra {
+    transition: none 0s ease-in-out;
+}
+.producto:last-child::before {
+    display: block;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%);
+    opacity: 0;
+    content: "Conoce todos los productos presionando en \"Ver más\"" ;
+}
+.producto:last-child:hover::before {
+    opacity: 1;
+}
