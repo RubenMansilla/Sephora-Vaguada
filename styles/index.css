@@ -36,7 +36,9 @@
 .producto:last-child:hover {
     opacity: 1;
 }
-.producto:last-child:hover .imagenProducto, .producto:last-child:hover .nombreProducto, .producto:last-child:hover .precioProducto {
+.producto:last-child:hover .imagenProducto,
+.producto:last-child:hover .nombreProducto,
+.producto:last-child:hover .precioProducto {
     opacity: 0;
 }
 .producto:last-child:hover .botonCompra {
@@ -49,8 +51,65 @@
     left: 50%;
     transform: translate(-50%);
     opacity: 0;
-    content: "Conoce todos los productos presionando en \"Ver más\"" ;
+    content: 'Conoce todos los productos presionando en "Ver más"';
 }
 .producto:last-child:hover::before {
     opacity: 1;
 }
+
+.contenedorFormulario {
+    background-color: #f7f7f7;
+}
+
+.newsletter {
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.newsletterText,
+.emailForm {
+    overflow: hidden;
+    float: left;
+    position: relative;
+    width: 50%;
+    padding: 16px 32px;
+}
+
+.condiciones {
+    margin: 32px auto;
+    width: max-content;
+}
+
+.condiciones a {
+    color: #808080;
+    margin: auto;
+}
+.condiciones a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.emailForm input {
+    width: 60%;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+.emailForm button {
+    width: 30%;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-color: #000;
+    color: #fff;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.emailForm input,
+.emailForm button {
+    padding: 8px 16px;
+    margin: 8px 0;
+    border: 1px solid #808080;
+}
+

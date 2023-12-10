@@ -156,6 +156,23 @@
                 </div>
             </div>
         </section>
+        <section class="contenedor contenedorFormulario">
+            <div class="newsletter">
+                <div class="newsletterText">
+                    <h4 class="titulo">¡Suscríbete a nuestro newsletter!</h4>
+                    <p>Recibe en tu correo electrónico las últimas novedades, consejos y ofertas exclusivas.</p>
+                    <p class="Oferta">Además, te regalamos un 10% de descuento en tu próxima compra.</p>
+                </div>
+                <form class="emailForm">
+                    <input type="text" placeholder="Introduce tu email"/>
+                    <button type="reset">Enviar</button>
+                </form>
+            </div>
+            <div class="clear"></div>
+            <div class="condiciones">
+                <a href="#">(1) Ver condiciones de la oferta</a>
+            </div>
+        </section>
     </div>
 
     <?php 

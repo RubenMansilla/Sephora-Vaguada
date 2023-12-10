@@ -87,6 +87,7 @@ nav ul li a:hover {
 }
 
 /* Con esto evitamos que el contenido se desborde, cada main y contenedor que use float no debería de desbordarse, principalmente gracias al clear:both */
+.clear,
 .main::after,
 .contenedor::after {
     content: "";
