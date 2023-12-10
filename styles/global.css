@@ -133,10 +133,15 @@ footer {
     cursor: pointer;
     border: 1px solid #e1dfdf;
     box-shadow: 0 0 15px #e1dfdf;
+    transition: all 0.2s ease-in-out;
 }
 /* cada 4 productos, el margen izquierdo es 0 */
 .producto:nth-child(4n + 1) {
     margin-left: 0;
+}
+
+.producto:hover {
+    transform: translateY(-2.5px);
 }
 
 .imagenProducto {

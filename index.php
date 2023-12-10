@@ -100,6 +100,24 @@
             </div>
         </section>
         <section class="contenedor">
+            <a class="banner" href="perfumes.php">
+            <figure class="bannerImg">
+                <img src="./img/perfumes/bannercologne.jpg" alt="">
+            </figure>
+                <div class="contenidoBanner">
+                    <div href="perfumes.php" class="textoBanner">
+                        <h3>
+                            ¡Descubre las novedades de la semana!
+                        </h3>
+                        <p>Mira nuestra página de Perfumes</p>
+                    </div>
+                    <button>
+                        Ver más
+                    </button>
+                </div>
+            </a>
+        </section>
+        <section class="contenedor">
             <h2 class="titulo"><a href="perfumes.php">Destacados en <span>PERFUMES</span></a></h2>
             <div class="productos">
                 <div class="producto">
