@@ -89,34 +89,34 @@
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (1).jpeg" alt="limpiador1">
+                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
                     </figure>
-                    <p class="nombreProducto">Gel-Crema BYOMA</p>
+                    <p class="nombreProducto">Gel-Crema Limpiador  BYOMA</p>
                     <p class="precioProducto">12,99 €</p>
                     <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (2).jpeg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (15).jpeg" alt="limpiador1">
                     </figure>
-                    <p class="nombreProducto">Gel-Crema BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
+                    <p class="nombreProducto">Aqua bomb jelly cleanser BELIF</p>
+                    <p class="precioProducto">25,99 €</p>
                     <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (3).jpeg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (12).jpeg" alt="limpiador1">
                     </figure>
-                    <p class="nombreProducto">Gel-Crema BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
+                    <p class="nombreProducto">GLOW TONER Charlotte Tilbury</p>
+                    <p class="precioProducto">49,00 €</p>
                     <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/skincare (4).jpeg" alt="limpiador1">
+                        <img src="./img/skincare/skincare (11).jpeg" alt="limpiador1">
                     </figure>
-                    <p class="nombreProducto">Gel-Crema BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
+                    <p class="nombreProducto">Water Bank Blue Hyaluronic</p>
+                    <p class="precioProducto">24,99 €</p>
                     <button class="botonCompra">Ver más</button>
                 </div>
             </div>
