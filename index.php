@@ -16,12 +16,27 @@
     ?>
     <div class="main">
         <section class="contenedor hero">
-            <ul class="imageHero">
-                <li id="heroImage1" class="imageActual"><img src="./img/index/hero-image-1.jpg" alt=""></li>
-                <li id="heroImage2" class=""><img src="./img/index/hero-image-2.jpg" alt=""></li>
-                <li id="heroImage3" class=""><img src="./img/index/hero-image-3.jpg" alt=""></li>
-                <li id="heroImage4" class=""><img src="./img/index/hero-image-4.jpg" alt=""></li>
-            </ul>
+            <div class="leftHero">
+                <ul class="imageHero">
+                    <li id="heroImage1" class="imageActual"><img src="./img/index/hero-image-1.jpg" alt=""></li>
+                    <li id="heroImage2" class=""><img src="./img/index/hero-image-2.jpg" alt=""></li>
+                    <li id="heroImage3" class=""><img src="./img/index/hero-image-3.jpg" alt=""></li>
+                    <li id="heroImage4" class=""><img src="./img/index/hero-image-4.jpg" alt=""></li>
+                </ul>
+                <div>
+                    <div class="textHero">
+                        <h1>
+                            Bienvenido a Sephora
+                        </h1>
+                        <p>
+                            Descubre nuestras novedades y ofertas exclusivas
+                        </p>
+                        <a class="btn" href="#primer-contenedor">
+                            Mira la tienda
+                        </a>
+                    </div>
+                </div>
+            </div>
             <ul class="imagesSelector">
                 <li id="heroSelector1" class="heroSelectorActual"><img src="./img/index/hero-image-1.jpg" alt=""></li>
                 <li id="heroSelector2" class=""><img src="./img/index/hero-image-2.jpg" alt=""></li>
@@ -29,7 +44,7 @@
                 <li id="heroSelector4" class=""><img src="./img/index/hero-image-4.jpg" alt=""></li>
             </ul>
         </section>
-        <section class="contenedor">
+        <section class="contenedor" id="primer-contenedor">
             <h2 class="titulo"><a href="maquillaje.php">Destacados en <span>MAQUILLAJE</span></a></h2>
             <div class="productos">
                 <div class="producto">
@@ -322,6 +337,6 @@
     ?>
 
     <script src="./scripts/index.js"></script>
-    
+
 </body>
 </html>
