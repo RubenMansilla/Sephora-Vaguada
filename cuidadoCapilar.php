@@ -6,6 +6,7 @@
     <title>Cuidado Capilar</title>
     <link rel="stylesheet" href="./styles/normalize.css">
     <link rel="stylesheet" href="./styles/global.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="./styles/skinCare&Pelo.css?v=<?php echo time(); ?>">
     <link rel="icon" href="img/favicon/icono.jpeg">
 </head>
 <body>
@@ -53,7 +54,7 @@
                 </div>
             </div>
             <section class="contenedor">
-            <h1 class="titulo">Macarilla</h1>
+            <h1 class="titulo">Mascarilla</h1>
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
