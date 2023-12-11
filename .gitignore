@@ -1,3 +1,8 @@
+# Pdfs y docs
+*.pdf
+*.docx
+*.doc
+
 # Logs
 logs
 *.log
