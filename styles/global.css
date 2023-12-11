@@ -110,11 +110,36 @@ svg {
 }
 
 .footer {
+    color: #fff;
     background-color: black;
 }
 .footer > * {
     max-width: 1440px;
     margin: auto;
+}
+.linksFooter {
+    overflow: hidden;
+}
+.linksFooter ul {
+    position: relative;
+    padding: 16px;
+    float: left;
+    width: 33.33%;
+    list-style: none;
+}
+.linksFooter ul li {
+    text-align: left;
+}
+.linksFooter ul li a {
+    margin: auto;
+    display: block;
+    color: #fff;
+    padding: 8px;
+}
+.creadores h5 {
+    text-align: center;
+    padding: 16px 0;
+    font-weight: 400;
 }
 .linksSociales {
     padding: 16px;

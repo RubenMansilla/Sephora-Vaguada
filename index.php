@@ -201,7 +201,7 @@
                 </div>
             </div>
         </section>
-        <section class="contenedor contenedorVentajas">
+        <section class="contenedor contenedorVentajas" id="ventajas">
             <div class="textoVentajas">
                 <div>
                     <h2>Ventajas de comprar en Sephora</h2>
@@ -271,7 +271,7 @@
                 </div>
             </div>
         </section>
-        <section class="contenedor contenedorFormulario">
+        <section class="contenedor contenedorFormulario" id="newsletter">
             <div class="newsletter">
                 <div class="newsletterText">
                     <h4 class="titulo">¡Suscríbete a nuestro newsletter!</h4>
