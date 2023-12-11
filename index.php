@@ -117,7 +117,7 @@
                     </figure>
                     <p class="nombreProducto">Water Bank Blue Hyaluronic</p>
                     <p class="precioProducto">24,99 €</p>
-                    <button class="botonCompra">Ver más</button>
+                    <a href="skinCare.php" class="botonCompra">Ver más</a>
                 </div>
             </div>
         </section>
@@ -179,21 +179,25 @@
                     </figure>
                     <p class="nombreProducto">Jean Paul Gaultier Le Male Agua de Colonia 125ml</p>
                     <p class="precioProducto">77,45 €</p>
-                    <button class="botonCompra">Ver más</button>
+                    <a href="perfumes.php" class="botonCompra">Ver más</a>
                 </div>
             </div>
         </section>
-        <section class="contenedor">
-            <!-- TODO -->
+            <section class="contenedor">
             <h2 class="titulo"><a href="cuidadoCapilar.php">Destacados en <span>CUIDADO CAPILAR</span></a></h2>
             <div class="productos">
+
+                <!-- TODO -->
+
                 <div class="producto">
+                    <!-- -->
                     <figure class="imagenProducto">
                         <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
                     </figure>
                     <p class="nombreProducto">Gel-Crema BYOMA</p>
                     <p class="precioProducto">12,99 €</p>
-                    <button class="botonCompra">Comprar</button>
+                    <!-- -->
+                    <a href="cuidadoCapilar.php" class="botonCompra">Ver más</a>
                 </div>
             </div>
         </section>
