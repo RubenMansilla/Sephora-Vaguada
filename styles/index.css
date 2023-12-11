@@ -9,6 +9,28 @@
     margin-top: 0;
 }
 
+.hero {
+    position: relative;
+    margin-top: 0;
+    width: 100%;
+    height: 90vh;
+}
+
+.hero figure {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.hero figure img {
+    filter: brightness(0.5);
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .slider {
     min-height: 100vh;
 }
@@ -97,13 +119,11 @@
     opacity: 0.7;
 }
 .bannerImg img {
-    object-position: 100px -250px;
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 .contenidoBanner {
-background: linear-gradient(90deg, rgba(236,100,57,1) 20%, rgba(0,0,0,0.241421568627451) 45%, rgba(0,0,0,0) 80%);
     padding: 16px 32px;
     width: 100%;
     height: 100%;
@@ -126,8 +146,6 @@ background: linear-gradient(90deg, rgba(236,100,57,1) 20%, rgba(0,0,0,0.24142156
 .contenidoBanner button {
     margin-right: 10px;
     float: right;
-    background-color: #ec6439;
-    border: 1px solid #ec6439;
     color: #fff;
     font-weight: 800;
     border: none;
@@ -141,6 +159,163 @@ background: linear-gradient(90deg, rgba(236,100,57,1) 20%, rgba(0,0,0,0.24142156
     color: #000;
 }
 
+/* Reglas especificas para cada banner */
+/* Banner SkinCare */
+.bannerSkinCare .contenidoBanner {
+    background: linear-gradient(
+        133deg,
+        rgba(255, 236, 204, 1) 14%,
+        rgba(255, 255, 255, 0) 60%
+    );
+}
+.bannerSkinCare .textoBanner {
+    color: #000;
+    top: 40%;
+    font-size: 20px;
+    letter-spacing: -1px;
+}
+.bannerSkinCare h3 {
+    letter-spacing: normal;
+    font-size: 24px;
+}
+.bannerSkinCare button {
+    background-color: #fff;
+    border: 1px solid rgba(255, 236, 204, 1);
+    color: #000;
+    font-weight: 400;
+}
+.bannerSkinCare button,
+.bannerSkinCare .textoBanner {
+    float: none;
+}
+/* Banner Perfume */
+.bannerPerfume .contenidoBanner {
+    background: linear-gradient(
+        90deg,
+        rgba(236, 100, 57, 1) 20%,
+        rgba(0, 0, 0, 0.241421568627451) 45%,
+        rgba(0, 0, 0, 0) 80%
+    );
+}
+.bannerPerfume .bannerImg {
+    background-color: rgba(236, 100, 57, 1)
+}
+.bannerPerfume img {
+    object-position: 100px -250px;
+}
+.bannerPerfume button {
+    background-color: #ec6439;
+    border: 1px solid #ec6439;
+}
+
+/* Ventajas Sephora */
+.contenedorVentajas {
+    position: relative;
+    background-color: #000;
+    color: #fff;
+    padding: 32px 32px;
+} 
+.textoVentajas {
+    position: relative;
+    float: left;
+    width: 33%;
+    height: 275px;
+}
+.textoVentajas > div {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.textoVentajas h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+.textoVentajas p span {
+    color: #ec6439;
+}
+.ventajas {
+    overflow: hidden;
+    position: relative;
+    float: right;
+    width: 66%;
+}
+.ventaja {
+    cursor: pointer;
+    overflow: hidden;
+    width: 14.28%;
+    float: right;
+    height: 275px;
+}    
+.ventaja:hover {
+    width: 28.56%;
+}
+.ventaja figure {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.ventaja figure img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+.ventaja figcaption {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+.ventaja figcaption div {
+    position: absolute;
+    bottom: -15px;
+    left: -10px;
+    width: 200%;
+    height: 100%;
+    filter: blur(20px); 
+}
+.ventaja:nth-child(1) figcaption div {
+    background-color: rgba(0, 0, 0, 0.7); 
+}
+.ventaja:nth-child(2) figcaption div {
+    background-color: rgba(48, 0, 0, 0.5);
+}
+.ventaja:nth-child(3) figcaption div {
+    background-color: rgba(0, 0, 48, 0.5);
+}
+.ventaja:nth-child(4) figcaption div {
+    background-color: rgba(0, 48, 0, 0.5);
+}
+.ventaja:nth-child(5) figcaption div {
+    background-color: rgba(48, 48, 0, 0.5);
+}
+.ventaja:nth-child(6) figcaption div {
+    background-color: rgba(48, 0, 48, 0.5);
+}
+.ventaja h5 {
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding: 16px 0;
+    text-wrap: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    filter: blur(0) grayscale(0);
+}
+.ventaja p {
+    width: 100%;
+    font-size: 14px;
+    text-align: center;
+    filter: blur(0) grayscale(0);
+}
+.ventaja:hover figcaption {
+    height: 40%;
+    opacity: 1;
+}
+
+/* Formulario newsletter */
 .condiciones {
     margin: 32px auto;
     width: max-content;

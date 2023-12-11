@@ -15,11 +15,12 @@
         include './includes/nav.php';
     ?>
 
+    <section class="hero">
+        <figure>
+            <img src="./img/index/heroimage.jpg" alt="">
+        </figure>
+    </section>
     <div class="main">
-        <section class="contenedor">
-            <!-- TODO -->
-            <div class="slider"></div>
-        </section>
         <section class="contenedor">
             <h2 class="titulo"><a href="maquillaje.php">Destacados en <span>MAQUILLAJE</span></a></h2>
             <div class="productos">
@@ -63,6 +64,27 @@
             </div>
         </section>
         <section class="contenedor">
+            <a class="banner bannerSkinCare" href="skinCare.php">
+                <figure class="bannerImg">
+                    <img src="./img/index/skincare.jpg"
+                        alt="Imagen con productos variados del cuidado facial / skin care">
+                </figure>
+                <div class="contenidoBanner">
+                    <div href="perfumes.php" class="textoBanner">
+                        <h3>
+                            Encuentra tu match perfecto
+                        </h3>
+                        <p>
+                            Descubre tu rutina de cuidado facial ideal en la página de Skin Care
+                        </p>
+                    </div>
+                    <button>
+                        ¡Haz match ya!
+                    </button>
+                </div>
+            </a>
+        </section>
+        <section class="contenedor">
             <h2 class="titulo"><a href="skinCare.php">Destacados en <span>SKIN CARE</span></a></h2>
             <div class="productos">
                 <div class="producto">
@@ -100,10 +122,11 @@
             </div>
         </section>
         <section class="contenedor">
-            <a class="banner" href="perfumes.php">
-            <figure class="bannerImg">
-                <img src="./img/perfumes/bannercologne.jpg" alt="">
-            </figure>
+            <a class="banner bannerPerfume" href="perfumes.php">
+                <figure class="bannerImg">
+                    <img src="./img/index/bannercologne.jpg"
+                        alt="Foto linda de Perfume en paisaje natural con colores anaranjados">
+                </figure>
                 <div class="contenidoBanner">
                     <div href="perfumes.php" class="textoBanner">
                         <h3>
@@ -174,6 +197,76 @@
                 </div>
             </div>
         </section>
+        <section class="contenedor contenedorVentajas">
+            <div class="textoVentajas">
+                <div>
+                    <h2>Ventajas de comprar en Sephora</h2>
+                    <p>Estas son <span>algunas</span> de las muchas ventajas de comprar en Sephora</p>
+                </div>
+            </div>
+            <div class="ventajas">
+                <div class="ventaja">
+                    <figure>
+                        <img src="./img/index/ventajas-evio-gratis.jpg" alt="Envio gratis imagen">
+                        <figcaption>
+                            <div></div>
+                            <h5>Envíos gratis</h2>
+                                <p>Envió gratis a partir de 30€</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="ventaja">
+                    <figure>
+                        <img src="./img/index/ventajas-muestra.jpg" alt="Varias muestras imagen">
+                        <figcaption>
+                            <div></div>
+                            <h5>Muestras</h2>
+                                <p>Hasta dos muestras</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="ventaja">
+                    <figure>
+                        <img src="./img/index/ventajas-devolucion.jpg" alt="Retorno en tienda imagen">
+                        <figcaption>
+                            <div></div>
+                            <h5>Devoluciones</h2>
+                                <p>60 días para cambios y devoluciones gratis</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="ventaja">
+                    <figure>
+                        <img src="./img/index/ventajas-recoge-tienda.jpg" alt="Recoge en tienda imagen">
+                        <figcaption>
+                            <div></div>
+                            <h5>Click & Collect</h2>
+                                <p>Recoge en 2 horas gratis</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="ventaja">
+                    <figure>
+                        <img src="./img/index/ventajas-puntos-recogida.jpg" alt="Puntos de recogida imagen">
+                        <figcaption>
+                            <div></div>
+                            <h5>Puntos de recogida</h5>
+                            <p>Recibe tu pedido en un punto de recogida cercano</p>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="ventaja">
+                    <figure>
+                        <img src="./img/index/ventajas-ayuda-contacto.jpg" alt="Ayuda y contacto imagen">
+                        <figcaption>
+                            <div></div>
+                            <h5>Ayuda y Contacto</h5>
+                            <p>¿Necesitas ayuda? Contacta con nosotros</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </section>
         <section class="contenedor contenedorFormulario">
             <div class="newsletter">
                 <div class="newsletterText">
@@ -182,7 +275,7 @@
                     <p class="Oferta">Además, te regalamos un 10% de descuento en tu próxima compra.</p>
                 </div>
                 <form class="emailForm">
-                    <input type="text" placeholder="Introduce tu email"/>
+                    <input type="text" placeholder="Introduce tu email" />
                     <button type="reset">Enviar</button>
                 </form>
             </div>

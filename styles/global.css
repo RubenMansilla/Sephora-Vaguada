@@ -20,6 +20,11 @@ a {
     color: #000;
 }
 
+svg {
+    display: block;
+    fill: currentColor;
+}
+
 .cabecera {
     padding: 1rem;
     background-color: black;
@@ -30,12 +35,11 @@ a {
     display: block;
     max-height: 66px;
     height: 100%;
-    fill: currentColor;
     color: white;
     margin: auto;
 }
 
-.cabecera .o-pandora {
+.o-pandora {
     fill-rule: evenodd;
     clip-rule: evenodd;
 }
