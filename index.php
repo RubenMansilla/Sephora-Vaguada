@@ -186,38 +186,29 @@
         <section class="contenedor">
             <h2 class="titulo"><a href="cuidadoCapilar.php">Destacados en <span>CUIDADO CAPILAR</span></a></h2>
             <div class="productos">
-
-                <!-- TODO -->
-
                 <div class="producto">
-                    <!-- -->
                     <figure class="imagenProducto">
                         <img src="./img/pelo/mascarilla (3).jpeg" alt="limpiador1">
                     </figure>
                     <p class="nombreProducto">Honey Infused Mask GISOU</p>
                     <p class="precioProducto">46,99 €</p>
-                    <!-- -->
-                    <a href="cuidadoCapilar.php" class="botonCompra">Comprar</a>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
-                    <!-- -->
                     <figure class="imagenProducto">
                         <img src="./img/pelo/champoo (4).jpeg" alt="limpiador1">
                     </figure>
                     <p class="nombreProducto">No.4 Bond Shampoo OLAPLEX</p>
                     <p class="precioProducto">29,99 €</p>
-                    <!-- -->
-                    <a href="cuidadoCapilar.php" class="botonCompra">Comprar</a>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
-                    <!-- -->
                     <figure class="imagenProducto">
                         <img src="./img/pelo/acondicionador (2).jpeg" alt="limpiador1">
                     </figure>
                     <p class="nombreProducto">Honey Conditioner GISOU</p>
                     <p class="precioProducto">29,99 €</p>
-                    <!-- -->
-                    <a href="cuidadoCapilar.php" class="botonCompra">Comprar</a>
+                    <button class="botonCompra">Comprar</button>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">

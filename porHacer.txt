@@ -1,5 +1,3 @@
-Arreglar nombres productos (añadir nombre marca)
+Agregar un espaciado final en skin care y cuidado capilar
 
-Archivo perfumes: linea 161 tiene un TODO
-
-Agregar un espaciado apropiado entre secciones, con margin top de ser posible
+Terminar hero

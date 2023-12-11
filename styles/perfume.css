@@ -121,7 +121,6 @@
 }
 
 /* Sección de marcas */
-/* TODO: Encontrar un estilo apropiado para las imágenes, recomendación: usar object-fit: cover  o contain*/
 .cajaMarca {
     clear: both;
     width: 100%;
