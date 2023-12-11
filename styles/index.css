@@ -10,29 +10,72 @@
 }
 
 .hero {
+    background-color: #000;
+    overflow: hidden;
     position: relative;
     margin-top: 0;
     width: 100%;
     height: 90vh;
 }
-
-.hero figure {
-    width: 100%;
+.hero ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.hero li {
+    border: 1px solid #fff;
+}
+/* Sección izquierda del hero */ 
+.imageHero {
+    width: 80%;
     height: 100%;
-    position: absolute;
+    position: relative;
+    float: left;
+}
+.imageHero li {
+    position:absolute;
     top: 0;
     left: 0;
-    z-index: -1;
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 0;
 }
-.hero figure img {
-    filter: brightness(0.5);
+.imageHero li img {
+    position: relative;
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center center;
+}
+/* La clase se aplica al hero desde JavaScript cuando se hace click en el selector correspondiente */
+.imageActual {
+    opacity: 1 !important;
+    z-index: 1 !important;
 }
 
-.slider {
-    min-height: 100vh;
+/* Sección derecha del hero */
+.imagesSelector {
+    position: relative;
+    width: 20%;
+    height: 100%;
+    float: right;
+}
+.imagesSelector li {
+    opacity: 0.6;
+    width: 100%;
+    height: 25%;
+    cursor: pointer;
+}
+.imagesSelector li img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+/* La clase se aplica al li correspondiente desde JavaScript cuando se esta viendo esa imagen en el hero */
+.heroSelectorActual {
+    opacity: 1 !important;
 }
 
 .titulo {

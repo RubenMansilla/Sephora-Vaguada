@@ -14,13 +14,21 @@
         include './includes/header.php'; 
         include './includes/nav.php';
     ?>
-
-    <section class="hero">
-        <figure>
-            <img src="./img/index/heroimage.jpg" alt="">
-        </figure>
-    </section>
     <div class="main">
+        <section class="contenedor hero">
+            <ul class="imageHero">
+                <li id="heroImage1" class="imageActual"><img src="./img/index/hero-image-1.jpg" alt=""></li>
+                <li id="heroImage2" class=""><img src="./img/index/hero-image-2.jpg" alt=""></li>
+                <li id="heroImage3" class=""><img src="./img/index/hero-image-3.jpg" alt=""></li>
+                <li id="heroImage4" class=""><img src="./img/index/hero-image-4.jpg" alt=""></li>
+            </ul>
+            <ul class="imagesSelector">
+                <li id="heroSelector1" class="heroSelectorActual"><img src="./img/index/hero-image-1.jpg" alt=""></li>
+                <li id="heroSelector2" class=""><img src="./img/index/hero-image-2.jpg" alt=""></li>
+                <li id="heroSelector3" class=""><img src="./img/index/hero-image-3.jpg" alt=""></li>
+                <li id="heroSelector4" class=""><img src="./img/index/hero-image-4.jpg" alt=""></li>
+            </ul>
+        </section>
         <section class="contenedor">
             <h2 class="titulo"><a href="maquillaje.php">Destacados en <span>MAQUILLAJE</span></a></h2>
             <div class="productos">
@@ -212,9 +220,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto5"
-                            src="./img/pelo/champoo (2).jpeg"
-                            alt="Honey Infused Wash GISOU">
+                        <img class="imgProducto5" src="./img/pelo/champoo (2).jpeg" alt="Honey Infused Wash GISOU">
                     </figure>
                     <p class="nombreProducto">Honey Infused Wash GISOU</p>
                     <p class="precioProducto">9,99 €</p>
@@ -314,5 +320,8 @@
     <?php 
         include './includes/footer.php'; 
     ?>
+
+    <script src="./scripts/index.js"></script>
+    
 </body>
 </html>
