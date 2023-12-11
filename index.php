@@ -18,10 +18,10 @@
         <section class="contenedor hero">
             <div class="leftHero">
                 <ul class="imageHero">
-                    <li id="heroImage1" class="imageActual"><img src="./img/index/hero-image-1.jpg" alt=""></li>
-                    <li id="heroImage2" class=""><img src="./img/index/hero-image-2.jpg" alt=""></li>
-                    <li id="heroImage3" class=""><img src="./img/index/hero-image-3.jpg" alt=""></li>
-                    <li id="heroImage4" class=""><img src="./img/index/hero-image-4.jpg" alt=""></li>
+                    <li id="heroImage1" class="imageActual"><img src="./img/index/hero-image-1.jpg" alt="Perfumes imagen"></li>
+                    <li id="heroImage2" class=""><img src="./img/index/hero-image-2.jpg" alt="Bloqueadores y SkinCare imagen"></li>
+                    <li id="heroImage3" class=""><img src="./img/index/hero-image-3.jpg" alt="Maquillaje imagen"></li>
+                    <li id="heroImage4" class="Productos body care imagen"><img src="./img/index/hero-image-4.jpg" alt=""></li>
                 </ul>
                 <div>
                     <div class="textHero">
@@ -38,10 +38,10 @@
                 </div>
             </div>
             <ul class="imagesSelector">
-                <li id="heroSelector1" class="heroSelectorActual"><img src="./img/index/hero-image-1.jpg" alt=""></li>
-                <li id="heroSelector2" class=""><img src="./img/index/hero-image-2.jpg" alt=""></li>
-                <li id="heroSelector3" class=""><img src="./img/index/hero-image-3.jpg" alt=""></li>
-                <li id="heroSelector4" class=""><img src="./img/index/hero-image-4.jpg" alt=""></li>
+                <li id="heroSelector1" class="heroSelectorActual"><img src="./img/index/hero-image-1.jpg" alt="Perfumes selector"></li>
+                <li id="heroSelector2" class=""><img src="./img/index/hero-image-2.jpg" alt="Bloqueadores y SkinCare selector"></li>
+                <li id="heroSelector3" class=""><img src="./img/index/hero-image-3.jpg" alt="Maquillaje selector"></li>
+                <li id="heroSelector4" class=""><img src="./img/index/hero-image-4.jpg" alt="Productos body care selector"></li>
             </ul>
         </section>
         <section class="contenedor" id="primer-contenedor">
