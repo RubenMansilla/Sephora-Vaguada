@@ -192,12 +192,42 @@
                 <div class="producto">
                     <!-- -->
                     <figure class="imagenProducto">
-                        <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
+                        <img src="./img/pelo/mascarilla (3).jpeg" alt="limpiador1">
                     </figure>
-                    <p class="nombreProducto">Gel-Crema BYOMA</p>
-                    <p class="precioProducto">12,99 €</p>
+                    <p class="nombreProducto">Honey Infused Mask GISOU</p>
+                    <p class="precioProducto">46,99 €</p>
                     <!-- -->
                     <a href="cuidadoCapilar.php" class="botonCompra">Ver más</a>
+                </div>
+                <div class="producto">
+                    <!-- -->
+                    <figure class="imagenProducto">
+                        <img src="./img/pelo/champoo (4).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">No.4 Bond Shampoo OLAPLEX</p>
+                    <p class="precioProducto">29,99 €</p>
+                    <!-- -->
+                    <a href="cuidadoCapilar.php" class="botonCompra">Ver más</a>
+                </div>
+                <div class="producto">
+                    <!-- -->
+                    <figure class="imagenProducto">
+                        <img src="./img/pelo/acondicionador (2).jpeg" alt="limpiador1">
+                    </figure>
+                    <p class="nombreProducto">Honey Conditioner GISOU</p>
+                    <p class="precioProducto">29,99 €</p>
+                    <!-- -->
+                    <a href="cuidadoCapilar.php" class="botonCompra">Ver más</a>
+                </div>
+                <div class="producto">
+                    <figure class="imagenProducto">
+                        <img class="imgProducto5"
+                            src="./img/pelo/champoo (2).jpeg"
+                            alt="Honey Infused Wash GISOU">
+                    </figure>
+                    <p class="nombreProducto">Honey Infused Wash GISOU</p>
+                    <p class="precioProducto">9,99 €</p>
+                    <a href="perfumes.php" class="botonCompra">Ver más</a>
                 </div>
             </div>
         </section>
