@@ -93,7 +93,8 @@ svg {
 /* Con esto evitamos que el contenido se desborde, cada main y contenedor que use float no debería de desbordarse, principalmente gracias al clear:both */
 .clear,
 .main::after,
-.contenedor::after {
+.contenedor::after,
+.footer::after {
     content: "";
     display: table;
     clear: both;
@@ -108,9 +109,59 @@ svg {
     margin-top: 0;
 }
 
-footer {
+.footer {
     background-color: black;
-    min-height: 100px;
+}
+.footer > * {
+    max-width: 1440px;
+    margin: auto;
+}
+.linksSociales {
+    padding: 16px;
+    color: white;
+    overflow: hidden;
+    width: max-content;
+}
+.footer h6 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+.linksSociales h6 a {
+    position: relative;
+    display: inline;
+}
+.linksSociales h6 a svg {
+    bottom: -3.5px;
+    position: relative;
+    display: inline;
+    height: 16px;
+    width: auto;
+}
+.linksSociales div a {
+    display: block;
+    float: left;
+    margin-left: 23px;
+    width: 32px;
+}
+.linksSociales div a:first-child {
+    margin-left: 0;
+}
+.footer svg {
+    color: #fff;
+    transition: all 0.2s linear;
+}
+.svgInstagram:hover svg {
+    color: #c32aa3;
+}
+.svgFacebook:hover svg {
+    color: #3b5998;
+}
+.svgTiktok:hover svg {
+    filter: drop-shadow(-2px -2px 0 #00f2ea) drop-shadow(3px 3px 0 #ff0050);
+}
+.svgYoutube:hover svg {
+    color: #ff0000;
 }
 
 /* Componente de productos */

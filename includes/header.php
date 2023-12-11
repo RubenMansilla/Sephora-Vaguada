@@ -1,5 +1,5 @@
 <header class="cabecera">
     <?php
-    include "includes/svgSephora.php";
+    include "includes/svg/svgSephora.php";
     ?>
 </header>
