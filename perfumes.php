@@ -262,7 +262,7 @@
             </div>
             <div class="marca">
                 <figure class="imgMarca">
-                    <img src="img/perfumes/marcaBoss.jpg">
+                    <img src="img/perfumes/marcaBoss2.jpg">
                 </figure>
                 <div class="textoMarca">
                     <h3>Boss</h3>
