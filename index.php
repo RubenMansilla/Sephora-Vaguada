@@ -91,7 +91,7 @@
                     <figure class="imagenProducto">
                         <img src="./img/skincare/BYOMA_limpiadorFacial.jpg" alt="limpiador1">
                     </figure>
-                    <p class="nombreProducto">Gel-Crema Limpiador  BYOMA</p>
+                    <p class="nombreProducto">Gel-Crema Limpiador BYOMA</p>
                     <p class="precioProducto">12,99 €</p>
                     <button class="botonCompra">Comprar</button>
                 </div>
@@ -183,7 +183,7 @@
                 </div>
             </div>
         </section>
-            <section class="contenedor">
+        <section class="contenedor">
             <h2 class="titulo"><a href="cuidadoCapilar.php">Destacados en <span>CUIDADO CAPILAR</span></a></h2>
             <div class="productos">
 
