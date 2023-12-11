@@ -131,10 +131,15 @@ svg {
     text-align: left;
 }
 .linksFooter ul li a {
+    width: 50%;
     margin: auto;
     display: block;
     color: #fff;
+    text-wrap: nowrap;
     padding: 8px;
+}
+.linksFooter ul li a:hover {
+    color: #ec6439;
 }
 .creadores h5 {
     text-align: center;
@@ -172,7 +177,8 @@ svg {
 .linksSociales div a:first-child {
     margin-left: 0;
 }
-.footer svg {
+.footer svg,
+.footer div a {
     color: #fff;
     transition: all 0.2s linear;
 }
