@@ -15,7 +15,7 @@
         include './includes/nav.php';
     ?>
     <div class="main">
-        <section class="contenedor hero">
+        <section class="hero">
             <div class="leftHero">
                 <ul class="imageHero">
                     <li id="heroImage1" class="imageActual"><img src="./img/index/hero-image-1.jpg" alt="Perfumes imagen"></li>

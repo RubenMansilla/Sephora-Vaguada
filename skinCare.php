@@ -85,6 +85,7 @@
                     <button class="botonCompra">Comprar</button>
 
                 </div>
+            </div>
         </section>
         <section class="contenedor">
             <h1 class="titulo">Tónico</h1>
@@ -154,6 +155,7 @@
                     <button class="botonCompra">Comprar</button>
 
                 </div>
+            </div>
         </section>
         <section class="contenedor">
             <h1 class="titulo">Contorno de ojos</h1>
@@ -223,7 +225,7 @@
                     <button class="botonCompra">Comprar</button>
 
                 </div>
-
+            </div>
         </section>
         <section class="contenedor">
             <h1 class="titulo">Serum</h1>
@@ -293,6 +295,7 @@
                     <button class="botonCompra">Comprar</button>
 
                 </div>
+            </div>
         </section>
         <section class="contenedor">
             <h1 class="titulo">Crema hidratante</h1>
@@ -362,6 +365,7 @@
                     <button class="botonCompra">Comprar</button>
 
                 </div>
+            </div>
         </section>
     </div>
 

@@ -101,6 +101,7 @@ svg {
 }
 
 .contenedor {
+    padding: 16px;
     overflow: hidden;
     width: 100%;
     margin: auto;

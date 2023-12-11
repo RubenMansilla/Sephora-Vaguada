@@ -53,7 +53,8 @@
                     <button class="botonCompra">Comprar</button>
                 </div>
             </div>
-            <section class="contenedor">
+        </section>
+        <section class="contenedor">
             <h1 class="titulo">Mascarilla</h1>
             <div class="productos">
                 <div class="producto">
@@ -89,7 +90,8 @@
                     <button class="botonCompra">Comprar</button>
                 </div>
             </div>
-            <section class="contenedor">
+        </section>
+        <section class="contenedor">
             <h1 class="titulo">Acondicionador</h1>
             <div class="productos">
                 <div class="producto">
