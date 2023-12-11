@@ -197,7 +197,7 @@
                     <p class="nombreProducto">Honey Infused Mask GISOU</p>
                     <p class="precioProducto">46,99 €</p>
                     <!-- -->
-                    <a href="cuidadoCapilar.php" class="botonCompra">Ver más</a>
+                    <a href="cuidadoCapilar.php" class="botonCompra">Comprar</a>
                 </div>
                 <div class="producto">
                     <!-- -->
@@ -207,7 +207,7 @@
                     <p class="nombreProducto">No.4 Bond Shampoo OLAPLEX</p>
                     <p class="precioProducto">29,99 €</p>
                     <!-- -->
-                    <a href="cuidadoCapilar.php" class="botonCompra">Ver más</a>
+                    <a href="cuidadoCapilar.php" class="botonCompra">Comprar</a>
                 </div>
                 <div class="producto">
                     <!-- -->
@@ -217,7 +217,7 @@
                     <p class="nombreProducto">Honey Conditioner GISOU</p>
                     <p class="precioProducto">29,99 €</p>
                     <!-- -->
-                    <a href="cuidadoCapilar.php" class="botonCompra">Ver más</a>
+                    <a href="cuidadoCapilar.php" class="botonCompra">Comprar</a>
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
