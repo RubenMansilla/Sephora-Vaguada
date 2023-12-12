@@ -1,4 +1,7 @@
 /* Video en el hero */
+.contenedor:first-child {
+    padding-top: 0;
+}
 .video {
     width: 100%;
 }
