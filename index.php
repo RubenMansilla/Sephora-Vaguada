@@ -49,7 +49,7 @@
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto14" src="img/maquillaje/GloWish - Soft Radiance Bronzing Powder.jpg"
+                        <img class="imgProducto14" src="img/maquillaje/GloWish-SoftRadianceBronzingPowder.jpg"
                             alt="GloWish - Soft Radiance Bronzing Powder">
                     </figure>
                     <p class="nombreProducto">Huda Beauty | GloWish Soft Radiance Bronzing Powder</p>
@@ -58,7 +58,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto16" src="img/maquillaje/KVD Beauty Tattoo Liner Eyeliner.jpg"
+                        <img class="imgProducto16" src="img/maquillaje/KVDBeautyTattooLinerEyeliner.jpg"
                             alt="KVD Beauty | Tattoo Liner Eyeliner">
                     </figure>
                     <p class="nombreProducto">KVD Beauty | Tattoo Liner Eyeliner</p>
@@ -68,7 +68,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto7"
-                            src="img/maquillaje/Forever Skin Correct - Corrector de alta cobertura  .jpg"
+                            src="img/maquillaje/ForeverSkinCorrect-Correctordealtacobertura.jpg"
                             alt="Forever Skin Correct - Corrector de alta cobertura ">
                     </figure>
                     <p class="nombreProducto">Dior | Forever Skin Correct de alta cobertura </p>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto4" src="img/maquillaje/Cofre Diorshow Esencial Ojos.jpg"
+                        <img class="imgProducto4" src="img/maquillaje/CofreDiorshowEsencialOjos.jpg"
                             alt="Cofre Diorshow Esencial Ojos">
                     </figure>
                     <p class="nombreProducto">Dior | Cofre Diorshow Esencial Ojos</p>
@@ -168,7 +168,7 @@
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto6" src="img/perfumes/Versace Eros for Men Eau de Toilette 100ml.png"
+                        <img class="imgProducto6" src="img/perfumes/VersaceErosforMenEaudeToilette100ml.png"
                             alt="Versace Eros for Men Eau de Toilette 100ml">
                     </figure>
                     <p class="nombreProducto">Versace Eros for Men Eau de Toilette 100ml</p>
@@ -178,7 +178,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto1"
-                            src="img/perfumes/Good Girl 100ml Eau de Parfum Refillable Edition.png"
+                            src="img/perfumes/GoodGirl100mlEaudeParfumRefillableEdition.png"
                             alt="Good Girl 100ml Eau de Parfum Refillable Edition">
                     </figure>
                     <p class="nombreProducto">Good Girl 100ml Eau de Parfum Refillable Edition</p>
@@ -187,7 +187,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto4" src="img/perfumes/BOSS Bottled Elixir - Fragancia intensa.png"
+                        <img class="imgProducto4" src="img/perfumes/BOSSBottledElixir-Fraganciaintensa.png"
                             alt="BOSS Bottled Elixir - Fragancia intensa">
                     </figure>
                     <p class="nombreProducto">BOSS Bottled Elixir - Fragancia intensa</p>
@@ -197,7 +197,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto5"
-                            src="img/perfumes/Jean Paul Gaultier Le Male Agua de Colonia 125ml.png"
+                            src="img/perfumes/JeanPaulGaultierLeMaleAguadeColonia125ml.png"
                             alt="Jean Paul Gaultier Le Male Agua de Colonia 125ml">
                     </figure>
                     <p class="nombreProducto">Jean Paul Gaultier Le Male Agua de Colonia 125ml</p>

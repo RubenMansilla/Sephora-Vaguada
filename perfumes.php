@@ -82,7 +82,7 @@
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto1" src="img/perfumes/Armani My Way Eau de Parfum - 30ml.png"
+                        <img class="imgProducto1" src="img/perfumes/ArmaniMyWayEaudeParfum-30ml.png"
                             alt="Armani My Way Eau de Parfum - 30ml">
                     </figure>
                     <p class="nombreProducto">Giorgio Armani My Way Eau de Parfum - 30ml</p>
@@ -100,7 +100,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto2" src="img/perfumes/Perfect Marc Jacobs Eau de Parfum 100ml.png"
+                        <img class="imgProducto2" src="img/perfumes/PerfectMarcJacobsEaudeParfum100ml.png"
                             alt="Perfect Marc Jacobs Eau de Parfum 100ml">
                     </figure>
                     <p class="nombreProducto">Perfect Marc Jacobs Eau de Parfum 100ml</p>
@@ -110,7 +110,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto1"
-                            src="img/perfumes/Good Girl 100ml Eau de Parfum Refillable Edition.png"
+                            src="img/perfumes/GoodGirl100mlEaudeParfumRefillableEdition.png"
                             alt="Good Girl 100ml Eau de Parfum Refillable Edition">
                     </figure>
                     <p class="nombreProducto">Good Girl 100ml Eau de Parfum Refillable Edition</p>
@@ -120,7 +120,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto3"
-                            src="img/perfumes/Calendario de adviento Herrera 12 días de belleza.png"
+                            src="img/perfumes/CalendariodeadvientoHerrera12díasdebelleza.png"
                             alt="Calendario de adviento Herrera: 12 días de belleza">
                     </figure>
                     <p class="nombreProducto">Calendario de adviento Herrera 12 días de belleza</p>
@@ -129,7 +129,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto4" src="img/perfumes/Yves Saint Laurent MYSLF Eau de Parfum 60ml.png"
+                        <img class="imgProducto4" src="img/perfumes/YvesSaintLaurentMYSLFEaudeParfum60ml.png"
                             alt="Yves Saint Laurent MYSLF Eau de Parfum 60ml">
                     </figure>
                     <p class="nombreProducto">Yves Saint Laurent MYSLF Eau de Parfum 60ml</p>
@@ -139,7 +139,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto5"
-                            src="img/perfumes/MUGLER Alien Eau de Parfum Natural Spray Recargable - 90ml.png"
+                            src="img/perfumes/MUGLERAlienEaudeParfumNaturalSprayRecargable-90ml.png"
                             alt="MUGLER Alien Eau de Parfum Natural Spray Recargable - 90ml">
                     </figure>
                     <p class="nombreProducto">MUGLER Alien Eau de Parfum Natural Spray - 90ml</p>
@@ -148,7 +148,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto6" src="img/perfumes/Versace Eros for Men Eau de Toilette 100ml.png"
+                        <img class="imgProducto6" src="img/perfumes/VersaceErosforMenEaudeToilette100ml.png"
                             alt="Versace Eros for Men Eau de Toilette 100ml">
                     </figure>
                     <p class="nombreProducto">Versace Eros for Men Eau de Toilette 100ml</p>
@@ -175,7 +175,7 @@
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto4" src="Img/perfumes/Eau de Rochas L'essentiel - Eau de Parfum.png"
+                        <img class="imgProducto4" src="Img/perfumes/EaudeRochasL'essentiel-EaudeParfum.png"
                             alt="Eau de Rochas L'essentiel - Eau de Parfum">
                     </figure>
                     <p class="nombreProducto">Eau de Rochas L'essentiel - Eau de Parfum</p>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto3" src="img/perfumes/Burberry Goddess Eau de Parfum for Women 100ml.jpg"
+                        <img class="imgProducto3" src="img/perfumes/BurberryGoddessEaudeParfumforWomen100ml.jpg"
                             alt="Burberry Goddess Eau de Parfum for Women 100ml">
                     </figure>
                     <p class="nombreProducto">Burberry Goddess Eau de Parfum for Women 100ml</p>
@@ -193,7 +193,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto2" src="img/perfumes/Ode To Dullness - Eau de Parfum.png"
+                        <img class="imgProducto2" src="img/perfumes/OdeToDullnes-EaudeParfum.png"
                             alt="Ode To Dullness - Eau de Parfum">
                     </figure>
                     <p class="nombreProducto">Ode To Dullness - Eau de Parfum</p>
@@ -203,7 +203,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto3"
-                            src="img/perfumes/Yves Saint Laurent Black Opium Eau de Parfum 30ml.png"
+                            src="img/perfumes/YvesSaintLaurentBlackOpiumEaudeParfum30ml.png"
                             alt="Yves Saint Laurent Black Opium Eau de Parfum 30ml">
                     </figure>
                     <p class="nombreProducto">Yves Saint Laurent Black Opium Eau de Parfum 30ml</p>
@@ -212,7 +212,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto2" src="img/perfumes/Alien Goddess Supra Florale - Eau de Parfum.png"
+                        <img class="imgProducto2" src="img/perfumes/AlienGoddessSupraFlorale-EaudeParfum.png"
                             alt="Alien Goddess Supra Florale - Eau de Parfum">
                     </figure>
                     <p class="nombreProducto">Alien Goddess Supra Florale - Eau de Parfum</p>
@@ -221,7 +221,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto4" src="img/perfumes/Bergamot Bloom 100ml Eau de Toilette.png"
+                        <img class="imgProducto4" src="img/perfumes/BergamotBloom100mlEaudeToilette.png"
                             alt="Bergamot Bloom 100ml Eau de Toilette">
                     </figure>
                     <p class="nombreProducto">Bergamot Bloom 100ml Eau de Toilette</p>
@@ -230,7 +230,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto5" src="img/perfumes/Yves Saint Laurent Libre Eau de Parfum 90ml.jpg"
+                        <img class="imgProducto5" src="img/perfumes/YvesSaintLaurentLibreEaudeParfum90ml.jpg"
                             alt="Yves Saint Laurent Libre Eau de Parfum 90ml">
                     </figure>
                     <p class="nombreProducto">Yves Saint Laurent Libre Eau de Parfum 90ml</p>
@@ -239,7 +239,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto4" src="img/perfumes/More More Pink - Eau de Toilette.jpg"
+                        <img class="imgProducto4" src="img/perfumes/MoreMorePink-EaudeToilette.jpg"
                             alt="More More Pink - Eau de Toilette">
                     </figure>
                     <p class="nombreProducto">More More Pink - Eau de Toilette</p>
@@ -285,7 +285,7 @@
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto4" src="img/perfumes/BOSS Bottled Elixir - Fragancia intensa.png"
+                        <img class="imgProducto4" src="img/perfumes/BOSSBottledElixir-Fraganciaintensa.png"
                             alt="BOSS Bottled Elixir - Fragancia intensa">
                     </figure>
                     <p class="nombreProducto">BOSS Bottled Elixir - Fragancia intensa</p>
@@ -295,7 +295,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto4"
-                            src="img/perfumes/Bad Boy 150ml Eau de Toilette Refillable Edition.png"
+                            src="img/perfumes/BadBoy150mlEaudeToiletteRefillableEdition.png"
                             alt="Bad Boy 150ml Eau de Toilette Refillable Edition">
                     </figure>
                     <p class="nombreProducto">Bad Boy 150ml Eau de Toilette Refillable Edition</p>
@@ -304,7 +304,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto1" src="img/perfumes/Paco Rabanne Invictus Eau de Toilette 200ml.png"
+                        <img class="imgProducto1" src="img/perfumes/PacoRabanneInvictusEaudeToilette200ml.png"
                             alt="Paco Rabanne Invictus Eau de Toilette 200ml">
                     </figure>
                     <p class="nombreProducto">Paco Rabanne Invictus Eau de Toilette 200ml</p>
@@ -314,7 +314,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto5"
-                            src="img/perfumes/Jean Paul Gaultier Le Male Agua de Colonia 125ml.png"
+                            src="img/perfumes/JeanPaulGaultierLeMaleAguadeColonia125ml.png"
                             alt="Jean Paul Gaultier Le Male Agua de Colonia 125ml">
                     </figure>
                     <p class="nombreProducto">Jean Paul Gaultier Le Male Agua de Colonia 125ml</p>
@@ -324,7 +324,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto1"
-                            src="img/perfumes/Valentino Born in Roma Uomo Eau de Toilette for Him 100ml.png"
+                            src="img/perfumes/ValentinoBorninRomaUomoEaudeToiletteforHim100ml.png"
                             alt="Valentino Born in Roma Uomo Eau de Toilette for Him 100ml">
                     </figure>
                     <p class="nombreProducto">Valentino Born in Roma Uomo Eau de Toilette for Him 100ml</p>
@@ -333,7 +333,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto3" src="img/perfumes/Prada Luna Rossa Carbon Eau de Toilette - 100ml.png"
+                        <img class="imgProducto3" src="img/perfumes/PradaLunaRossaCarbonEaudeToilette-100ml.png"
                             alt="Prada Luna Rossa Carbon Eau de Toilette - 100ml">
                     </figure>
                     <p class="nombreProducto">Prada Luna Rossa Carbon Eau de Toilette - 100ml</p>
@@ -343,7 +343,7 @@
                 <div class="producto">
                     <figure class="imagenProducto">
                         <img class="imgProducto1"
-                            src="img/perfumes/Armani Acqua Di Gio Homme Eau de Toilette - 100ml.png"
+                            src="img/perfumes/ArmaniAcquaDiGioHommeEaudeToilette-100ml.png"
                             alt="Armani Acqua Di Gio Homme Eau de Toilette - 100ml">
                     </figure>
                     <p class="nombreProducto">Armani Acqua Di Gio Homme Eau de Toilette - 100ml</p>
@@ -352,7 +352,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto3" src="img/perfumes/Burberry Hero Eau de Parfum for Men 50ml.png"
+                        <img class="imgProducto3" src="img/perfumes/BurberryHeroEaudeParfumforMen50ml.png"
                             alt="Burberry Hero Eau de Parfum for Men 50ml">
                     </figure>
                     <p class="nombreProducto">Burberry Hero Eau de Parfum for Men 50ml</p>
@@ -383,7 +383,7 @@
             <div class="cofresRegalo">
                 <figure class="imagenProducto">
                     <img class="imgProducto1"
-                        src="img/perfumes/Marc Jacobs Christmas 2023 Daisy Eau de Toilette Spray 50ml Gift Set.jpg"
+                        src="img/perfumes/MarcJacobsChristmas2023DaisyEaudeToiletteSpray50mlGiftSet.jpg"
                         alt="Marc Jacobs Christmas 2023 Daisy Eau de Toilette Spray 50ml Gift Set">
                 </figure>
                 <p class="nombreProducto">Marc Jacobs Christmas 2023 Daisy Eau de Toilette Spray 50ml Gift Set</p>
@@ -393,7 +393,7 @@
             <div class="cofresRegalo">
                 <figure class="imagenProducto">
                     <img class="imgProducto1"
-                        src="img/perfumes/Bad Boy 100 ml Eau de Toilette, Gel de Ducha 100 ml y Megavaporizador 10 ml.png"
+                        src="img/perfumes/BadBoy100mlEaudeToilette,GeldeDucha100mlyMegavaporizador10ml.png"
                         alt="Bad Boy 100 ml Eau de Toilette, Gel de Ducha 100 ml y Megavaporizador 10 ml">
                 </figure>
                 <p class="nombreProducto">Bad Boy 100 ml Eau de Toilette, Gel de Ducha 100 ml y Megavaporizador</p>
