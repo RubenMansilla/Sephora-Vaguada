@@ -15,7 +15,9 @@
         include './includes/header.php'; 
         include './includes/nav.php';
     ?>
-
+    <figure class="banner">
+        <img src="https://static.sephora.fr/www/webmaster/cardCadeauxNew2023/es/2.png" alt="banner navidad promoción">
+    </figure>
     <div class="main">
         <section class="contenedor">
             <h1 class="titulo">Shampoo</h1>
