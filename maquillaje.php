@@ -42,8 +42,8 @@
             <div class="productos">
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img src="img/maquillaje/High Impact High-Fi™ Full Volume.png"
-                            alt="High Impact High-Fi™ Full Volume">
+                        <img src="img/maquillaje/High Impact High-Fi Full Volume.png"
+                            alt="High Impact High-Fi Full Volume">
                     </figure>
                     <p class="nombreProducto">High Impact High-Fi <br> Full Volume</p>
                     <p class="precioProducto">36,00 €</p>
@@ -584,7 +584,7 @@
                 </div>
                 <div class="producto">
                     <figure class="imagenProducto">
-                        <img class="imgProducto16" src="img/maquillaje/High Impact™ Gel Tech Eyeliner.jpg"
+                        <img class="imgProducto16" src="img/maquillaje/High Impact Gel Tech Eyeliner.jpg"
                             alt="High Impact™ Gel Tech Eyeliner">
                     </figure>
                     <p class="nombreProducto">Clinique | High Impact Gel Tech Eyeliner</p>
