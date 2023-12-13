@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./styles/global.css?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="./styles/index.css?v=<?php echo time(); ?>">
     <link rel="icon" href="img/favicon/icono.jpeg">
+    <script src="./scripts/index.js" defer></script>
 </head>
 <body>
     <?php 
@@ -335,8 +336,5 @@
     <?php 
         include './includes/footer.php'; 
     ?>
-
-    <script src="./scripts/index.js"></script>
-
 </body>
 </html>
