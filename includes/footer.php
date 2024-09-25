@@ -10,7 +10,7 @@
         </ul>
         <ul>
             <li><a href="https://github.com/RubenMansilla/Sephora-Vaguada" target="_blank">Repositorio</a></li>
-            <li><a href="https://www.sephora.es/" target="_blank">Pagina Oficial</a></li>
+            <li><a href="https://www.sephora.es/" target="_blank">Página Oficial</a></li>
         </ul>
         <div class="clear"></div>
         <div class="creadores">
